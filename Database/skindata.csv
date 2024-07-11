@@ -1,0 +1,1563 @@
+Skin,Weapon,Collection,Rarity,Min_Float,Max_Float,Is_Stattrak
+Caramel,UMP-45,The Assault Collection,Consumer,0.06,0.8,0
+Hot Rod,AUG,The Assault Collection,Mil-Spec,0,0.08,0
+Fade,Glock-18,The Assault Collection,Restricted,0,0.08,0
+Bulldozer,MP9,The Assault Collection,Restricted,0.06,0.8,0
+Tornado,SG 553,The Assault Collection,Consumer,0.06,0.8,0
+Anodized Navy,Negev,The Assault Collection,Mil-Spec,0,0.08,0
+Candy Apple,Five-SeveN,The Assault Collection,Industrial,0,0.3,0
+Contrast Spray,FAMAS,The Office Collection,Consumer,0.06,0.8,0
+Blizzard Marbleized,M249,The Office Collection,Industrial,0.06,0.8,0
+Whiteout,MP7,The Office Collection,Mil-Spec,0.06,0.8,0
+Silver,P2000,The Office Collection,Mil-Spec,0,0.08,0
+Arctic Camo,G3SG1,The Office Collection,Industrial,0.06,0.8,0
+Winter Forest,Galil AR,The Office Collection,Industrial,0.06,0.8,0
+Fallout Warning,XM1014,The Nuke Collection,Industrial,0.06,0.8,0
+Radiation Hazard,M4A4,The Nuke Collection,Mil-Spec,0.06,0.8,0
+Fallout Warning,UMP-45,The Nuke Collection,Industrial,0.06,0.8,0
+Irradiated Alert,PP-Bizon,The Nuke Collection,Consumer,0.06,0.8,0
+Fallout Warning,P90,The Nuke Collection,Industrial,0.06,0.8,0
+Nuclear Threat,Tec-9,The Nuke Collection,Restricted,0.06,0.8,0
+Nuclear Threat,P250,The Nuke Collection,Restricted,0.06,0.8,0
+Irradiated Alert,Sawed-Off,The Nuke Collection,Consumer,0.06,0.8,0
+Irradiated Alert,MAG-7,The Nuke Collection,Consumer,0.06,0.8,0
+Splash Jam,SCAR-20,The Militia Collection,Classified,0.06,0.8,0
+Modern Hunter,Nova,The Militia Collection,Mil-Spec,0.06,0.8,0
+Forest Leaves,PP-Bizon,The Militia Collection,Consumer,0.06,0.8,0
+Modern Hunter,PP-Bizon,The Militia Collection,Mil-Spec,0.06,0.8,0
+Blaze Orange,XM1014,The Militia Collection,Mil-Spec,0.06,0.8,0
+Modern Hunter,P250,The Militia Collection,Mil-Spec,0.06,0.8,0
+Tornado,MAC-10,The Militia Collection,Consumer,0.06,0.8,0
+Blaze Orange,Nova,The Militia Collection,Mil-Spec,0.06,0.8,0
+Grassland,XM1014,The Militia Collection,Consumer,0.06,0.8,0
+Grassland Leaves,P2000,The Militia Collection,Industrial,0.06,0.8,0
+Modern Hunter,M4A4,The Militia Collection,Restricted,0.06,0.8,0
+Walnut,Nova,The Inferno Collection,Consumer,0.06,0.8,0
+Tornado,M4A4,The Inferno Collection,Industrial,0.06,0.8,0
+Brass,Tec-9,The Inferno Collection,Mil-Spec,0,1,0
+Gunsmoke,P250,The Inferno Collection,Industrial,0.06,0.8,0
+Anodized Navy,Dual Berettas,The Inferno Collection,Mil-Spec,0,0.08,0
+Sand Dune,MAG-7,The Inferno Collection,Consumer,0.06,0.8,0
+Black Laminate,AK-47,The Vertigo Collection,Mil-Spec,0.06,0.8,0
+Carbon Fiber,PP-Bizon,The Vertigo Collection,Industrial,0,0.12,0
+Urban DDPAT,MAC-10,The Vertigo Collection,Consumer,0.06,0.8,0
+Glacier Mesh,P90,The Vertigo Collection,Mil-Spec,0.06,0.8,0
+Demolition,Dual Berettas,The Vertigo Collection,Restricted,0.26,0.6,0
+Urban Perforated,XM1014,The Vertigo Collection,Consumer,0.06,0.8,0
+Jungle Tiger,M4A4,The Aztec Collection,Industrial,0.06,0.8,0
+Lichen Dashed,SSG 08,The Aztec Collection,Consumer,0.06,0.8,0
+Jungle,Five-SeveN,The Aztec Collection,Consumer,0.06,0.8,0
+Ossified,Tec-9,The Aztec Collection,Mil-Spec,0,0.08,0
+Forest Leaves,Nova,The Aztec Collection,Consumer,0.06,0.8,0
+Jungle Spray,AK-47,The Aztec Collection,Industrial,0.06,0.8,0
+Predator,AK-47,The Dust Collection,Industrial,0.06,0.8,0
+Palm,SCAR-20,The Dust Collection,Industrial,0.06,0.8,0
+Copper,Sawed-Off,The Dust Collection,Mil-Spec,0,1,0
+Desert Storm,M4A4,The Dust Collection,Industrial,0.06,0.8,0
+Copperhead,AUG,The Dust Collection,Mil-Spec,0.12,0.38,0
+Brass,Glock-18,The Dust Collection,Restricted,0,1,0
+Scorpion,P2000,The Dust Collection,Restricted,0,0.08,0
+Blaze,Desert Eagle,The Dust Collection,Restricted,0,0.08,0
+Snake Camo,AWP,The Dust Collection,Mil-Spec,0.06,0.8,0
+Death by Kitty,P90,eSports 2013 Case,Covert,0.08,0.32,1
+BOOM,AWP,eSports 2013 Case,Classified,0.06,0.28,1
+Memento,MAG-7,eSports 2013 Case,Mil-Spec,0.02,0.18,1
+Orange DDPAT,Galil AR,eSports 2013 Case,Restricted,0.06,0.8,1
+Doomkitty,FAMAS,eSports 2013 Case,Mil-Spec,0.08,0.22,1
+Splash,P250,eSports 2013 Case,Restricted,0.06,0.18,1
+Orange DDPAT,Sawed-Off,eSports 2013 Case,Restricted,0.06,0.8,1
+Faded Zebra,M4A4,eSports 2013 Case,Mil-Spec,0.06,0.8,1
+Red Laminate,AK-47,eSports 2013 Case,Classified,0.06,0.8,1
+Lightning Strike,AWP,CS:GO Weapon Case,Covert,0,0.08,1
+Wings,AUG,CS:GO Weapon Case,Mil-Spec,0,0.14,1
+Ultraviolet,SG 553,CS:GO Weapon Case,Mil-Spec,0.06,0.8,1
+Case Hardened,AK-47,CS:GO Weapon Case,Classified,0,1,1
+Hypnotic,Desert Eagle,CS:GO Weapon Case,Classified,0,0.08,1
+Dragon Tattoo,Glock-18,CS:GO Weapon Case,Restricted,0,0.08,1
+Dark Water,USP-S,CS:GO Weapon Case,Restricted,0.1,0.26,1
+Skulls,MP7,CS:GO Weapon Case,Mil-Spec,0.1,0.26,1
+Dark Water,M4A1-S,CS:GO Weapon Case,Restricted,0.1,0.26,1
+Emerald,SCAR-20,The Alpha Collection,Restricted,0,0.08,0
+Groundwater,MP7,The Alpha Collection,Consumer,0.06,0.8,0
+Anodized Navy,AUG,The Alpha Collection,Mil-Spec,0,0.08,0
+Spitfire,FAMAS,The Alpha Collection,Restricted,0.06,0.8,0
+Rust Coat,PP-Bizon,The Alpha Collection,Mil-Spec,0,1,0
+Jungle,XM1014,The Alpha Collection,Consumer,0.06,0.8,0
+Anodized Gunmetal,Five-SeveN,The Alpha Collection,Consumer,0,0.08,0
+Facets,P250,The Alpha Collection,Industrial,0.06,0.8,0
+Dry Season,MP9,The Alpha Collection,Consumer,0.06,0.8,0
+Mosaico,Sawed-Off,The Alpha Collection,Industrial,0.06,0.8,0
+Hazard,MAG-7,The Alpha Collection,Mil-Spec,0.06,0.8,0
+Palm,Negev,The Alpha Collection,Industrial,0.06,0.8,0
+Tornado,Tec-9,The Alpha Collection,Consumer,0.06,0.8,0
+Jungle DDPAT,M249,The Alpha Collection,Consumer,0.06,0.8,0
+Mayan Dreams,SSG 08,The Alpha Collection,Industrial,0.06,0.8,0
+Sand Dune,Glock-18,The Alpha Collection,Industrial,0.06,0.8,0
+Overgrowth,USP-S,Operation Bravo Case,Restricted,0.06,0.8,1
+Graphite,AWP,Operation Bravo Case,Classified,0,0.12,1
+Demeter,G3SG1,Operation Bravo Case,Mil-Spec,0.06,0.8,1
+Shattered,Galil AR,Operation Bravo Case,Mil-Spec,0.06,0.8,1
+Wave Spray,SG 553,Operation Bravo Case,Mil-Spec,0.06,0.8,1
+Fire Serpent,AK-47,Operation Bravo Case,Covert,0.06,0.76,1
+Bone Pile,UMP-45,Operation Bravo Case,Mil-Spec,0.06,0.34,1
+Graven,MAC-10,Operation Bravo Case,Restricted,0.06,0.8,1
+Ocean Foam,P2000,Operation Bravo Case,Classified,0,0.12,1
+Black Limba,Dual Berettas,Operation Bravo Case,Mil-Spec,0.06,0.8,1
+Zirka,M4A4,Operation Bravo Case,Restricted,0.06,0.42,1
+Golden Koi,Desert Eagle,Operation Bravo Case,Covert,0,0.12,1
+Emerald Dragon,P90,Operation Bravo Case,Classified,0.06,0.52,1
+Tempest,Nova,Operation Bravo Case,Mil-Spec,0.06,0.22,1
+Bright Water,M4A1-S,Operation Bravo Case,Restricted,0.1,0.22,1
+Blood in the Water,SSG 08,CS:GO Weapon Case 2,Covert,0.06,0.2,1
+Serum,USP-S,CS:GO Weapon Case 2,Classified,0,0.25,1
+Blood Tiger,M4A1-S,CS:GO Weapon Case 2,Mil-Spec,0,0.3,1
+Hypnotic,MP9,CS:GO Weapon Case 2,Restricted,0,0.08,1
+Cold Blooded,P90,CS:GO Weapon Case 2,Classified,0,0.08,1
+Hemoglobin,Dual Berettas,CS:GO Weapon Case 2,Restricted,0,0.2,1
+Hive,P250,CS:GO Weapon Case 2,Mil-Spec,0,0.3,1
+Case Hardened,Five-SeveN,CS:GO Weapon Case 2,Restricted,0,1,1
+Hexane,FAMAS,CS:GO Weapon Case 2,Mil-Spec,0,0.4,1
+Blue Titanium,Tec-9,CS:GO Weapon Case 2,Mil-Spec,0,0.04,1
+Graphite,Nova,CS:GO Weapon Case 2,Restricted,0,0.12,1
+Crimson Web,SCAR-20,CS:GO Weapon Case 2,Mil-Spec,0.06,0.8,1
+Desert Storm,G3SG1,The Dust 2 Collection,Consumer,0.06,0.8,0
+Sand Dune,P250,The Dust 2 Collection,Consumer,0.06,0.8,0
+Snake Camo,Sawed-Off,The Dust 2 Collection,Industrial,0.06,0.8,0
+Damascus Steel,SG 553,The Dust 2 Collection,Mil-Spec,0,1,0
+Safari Mesh,AK-47,The Dust 2 Collection,Industrial,0.06,0.8,0
+Sand Mesh,SCAR-20,The Dust 2 Collection,Consumer,0.06,0.8,0
+Orange Peel,Five-SeveN,The Dust 2 Collection,Industrial,0.06,0.8,0
+Amber Fade,P2000,The Dust 2 Collection,Restricted,0,0.4,0
+Sand Spray,P90,The Dust 2 Collection,Consumer,0.06,0.8,0
+Sand Dashed,MP9,The Dust 2 Collection,Consumer,0.06,0.8,0
+Brass,PP-Bizon,The Dust 2 Collection,Mil-Spec,0,1,0
+Palm,MAC-10,The Dust 2 Collection,Industrial,0.06,0.8,0
+VariCamo,Tec-9,The Dust 2 Collection,Industrial,0,0.6,0
+Predator,Nova,The Dust 2 Collection,Consumer,0.06,0.8,0
+VariCamo,M4A1-S,The Dust 2 Collection,Mil-Spec,0,0.6,0
+CaliCamo,XM1014,The Italy Collection,Industrial,0,0.6,0
+Groundwater,Tec-9,The Italy Collection,Consumer,0.06,0.8,0
+Full Stop,Sawed-Off,The Italy Collection,Mil-Spec,0,0.6,0
+Contractor,AUG,The Italy Collection,Consumer,0.06,0.8,0
+Boreal Forest,M4A1-S,The Italy Collection,Industrial,0.06,0.8,0
+Colony,FAMAS,The Italy Collection,Consumer,0.06,0.8,0
+Gunsmoke,UMP-45,The Italy Collection,Industrial,0.06,0.8,0
+Pit Viper,AWP,The Italy Collection,Restricted,0.08,0.5,0
+Sand Dune,Nova,The Italy Collection,Consumer,0.06,0.8,0
+Candy Apple,Glock-18,The Italy Collection,Mil-Spec,0,0.3,0
+Granite Marbleized,P2000,The Italy Collection,Industrial,0.06,0.8,0
+Stained,Dual Berettas,The Italy Collection,Industrial,0,1,0
+Anodized Navy,MP7,The Italy Collection,Mil-Spec,0,0.08,0
+Sand Dashed,PP-Bizon,The Italy Collection,Consumer,0.06,0.8,0
+Candy Apple,Nova,The Italy Collection,Industrial,0,0.3,0
+Boreal Forest,P250,The Lake Collection,Consumer,0.06,0.8,0
+Night Ops,USP-S,The Lake Collection,Mil-Spec,0,0.6,0
+Mudder,Desert Eagle,The Lake Collection,Industrial,0.06,0.8,0
+Blue Spruce,XM1014,The Lake Collection,Consumer,0.06,0.8,0
+Storm,AUG,The Lake Collection,Consumer,0.06,0.8,0
+Safari Mesh,AWP,The Lake Collection,Industrial,0.06,0.8,0
+Cobalt Quartz,Dual Berettas,The Lake Collection,Restricted,0,0.4,0
+Sage Spray,Galil AR,The Lake Collection,Consumer,0.06,0.8,0
+Night Ops,PP-Bizon,The Lake Collection,Industrial,0,0.6,0
+Teardown,P90,The Lake Collection,Mil-Spec,0,0.6,0
+Waves Perforated,SG 553,The Lake Collection,Consumer,0.06,0.8,0
+Jungle Dashed,G3SG1,The Lake Collection,Consumer,0.06,0.8,0
+Cyanospatter,FAMAS,The Lake Collection,Industrial,0.06,0.8,0
+Blue Steel,XM1014,The Lake Collection,Industrial,0,1,0
+Anodized Navy,SG 553,The Lake Collection,Mil-Spec,0,0.08,0
+Bone Mask,P250,The Mirage Collection,Consumer,0.06,0.8,0
+CaliCamo,Negev,The Mirage Collection,Industrial,0,0.6,0
+Contractor,Five-SeveN,The Mirage Collection,Consumer,0.06,0.8,0
+Colony,AUG,The Mirage Collection,Consumer,0.06,0.8,0
+Bulldozer,MAG-7,The Mirage Collection,Restricted,0.06,0.8,0
+Amber Fade,MAC-10,The Mirage Collection,Mil-Spec,0,0.4,0
+Safari Mesh,G3SG1,The Mirage Collection,Consumer,0.06,0.8,0
+Tropical Storm,SSG 08,The Mirage Collection,Industrial,0.06,0.8,0
+Scorched,P90,The Mirage Collection,Consumer,0.06,0.8,0
+Gator Mesh,SG 553,The Mirage Collection,Industrial,0,0.6,0
+Hunting Blind,Galil AR,The Mirage Collection,Consumer,0,0.6,0
+Groundwater,Glock-18,The Mirage Collection,Industrial,0.06,0.8,0
+Blaze,UMP-45,The Mirage Collection,Mil-Spec,0,0.08,0
+Orange Peel,MP7,The Mirage Collection,Industrial,0.06,0.8,0
+Hot Rod,MP9,The Mirage Collection,Mil-Spec,0,0.08,0
+Contractor,Dual Berettas,The Safehouse Collection,Consumer,0.06,0.8,0
+Contractor,SCAR-20,The Safehouse Collection,Consumer,0.06,0.8,0
+VariCamo,G3SG1,The Safehouse Collection,Industrial,0,0.6,0
+Blue Spruce,SSG 08,The Safehouse Collection,Consumer,0.06,0.8,0
+Acid Fade,SSG 08,The Safehouse Collection,Mil-Spec,0,0.03,0
+Gator Mesh,M249,The Safehouse Collection,Industrial,0,0.6,0
+VariCamo,Galil AR,The Safehouse Collection,Industrial,0,0.6,0
+Nitro,M4A1-S,The Safehouse Collection,Restricted,0.06,0.8,0
+Army Mesh,Tec-9,The Safehouse Collection,Consumer,0,0.6,0
+Silver Quartz,Five-SeveN,The Safehouse Collection,Mil-Spec,0,0.4,0
+Army Recon,MP7,The Safehouse Collection,Consumer,0.06,0.8,0
+Forest Leaves,USP-S,The Safehouse Collection,Industrial,0.06,0.8,0
+Condemned,AUG,The Safehouse Collection,Industrial,0.06,0.8,0
+Teardown,FAMAS,The Safehouse Collection,Mil-Spec,0,0.6,0
+Orange Peel,MP9,The Safehouse Collection,Industrial,0.06,0.8,0
+Urban DDPAT,UMP-45,The Train Collection,Consumer,0.06,0.8,0
+Metallic DDPAT,P250,The Train Collection,Industrial,0,0.08,0
+Colony,Dual Berettas,The Train Collection,Consumer,0.06,0.8,0
+Polar Camo,G3SG1,The Train Collection,Consumer,0.06,0.8,0
+Urban Rubble,Desert Eagle,The Train Collection,Mil-Spec,0,0.5,0
+Red Quartz,Tec-9,The Train Collection,Restricted,0,0.4,0
+Forest Night,Five-SeveN,The Train Collection,Consumer,0.06,0.8,0
+Metallic DDPAT,MAG-7,The Train Collection,Industrial,0,0.08,0
+Carbon Fiber,SCAR-20,The Train Collection,Industrial,0,0.12,0
+Amber Fade,Sawed-Off,The Train Collection,Mil-Spec,0,0.4,0
+Polar Mesh,Nova,The Train Collection,Consumer,0.06,0.8,0
+Ash Wood,P90,The Train Collection,Industrial,0,0.45,0
+Urban Dashed,PP-Bizon,The Train Collection,Consumer,0.06,0.8,0
+Candy Apple,MAC-10,The Train Collection,Industrial,0,0.3,0
+Urban DDPAT,M4A4,The Train Collection,Industrial,0.06,0.8,0
+Sandstorm,Galil AR,Winter Offensive Weapon Case,Mil-Spec,0.1,0.6,1
+Kami,Five-SeveN,Winter Offensive Weapon Case,Mil-Spec,0,0.3,1
+Magma,M249,Winter Offensive Weapon Case,Mil-Spec,0,0.7,1
+Cobalt Halftone,PP-Bizon,Winter Offensive Weapon Case,Mil-Spec,0.05,0.45,1
+Pulse,FAMAS,Winter Offensive Weapon Case,Restricted,0,0.4,1
+Marina,Dual Berettas,Winter Offensive Weapon Case,Restricted,0.05,0.5,1
+Rose Iron,MP9,Winter Offensive Weapon Case,Restricted,0,0.3,1
+Rising Skull,Nova,Winter Offensive Weapon Case,Restricted,0,0.5,1
+Guardian,M4A1-S,Winter Offensive Weapon Case,Classified,0,0.5,1
+Mehndi,P250,Winter Offensive Weapon Case,Classified,0,1,1
+Redline,AWP,Winter Offensive Weapon Case,Classified,0.1,0.4,1
+Asiimov,M4A4,Winter Offensive Weapon Case,Covert,0.18,1,1
+Blue Titanium,Galil AR,eSports 2013 Winter Case,Mil-Spec,0,0.04,1
+Blue Laminate,AK-47,eSports 2013 Winter Case,Restricted,0.02,0.4,1
+Cobalt Disruption,Desert Eagle,eSports 2013 Winter Case,Classified,0,0.2,1
+Water Sigil,PP-Bizon,eSports 2013 Winter Case,Mil-Spec,0,0.5,1
+Ghost Camo,Nova,eSports 2013 Winter Case,Mil-Spec,0,0.4,1
+Electric Hive,AWP,eSports 2013 Winter Case,Classified,0,0.4,1
+X-Ray,M4A4,eSports 2013 Winter Case,Covert,0,0.3,1
+Azure Zebra,G3SG1,eSports 2013 Winter Case,Mil-Spec,0,0.28,1
+Steel Disruption,P250,eSports 2013 Winter Case,Mil-Spec,0,0.2,1
+Blind Spot,P90,eSports 2013 Winter Case,Restricted,0,0.5,1
+Afterimage,FAMAS,eSports 2013 Winter Case,Classified,0.02,0.4,1
+Nightshade,Five-SeveN,eSports 2013 Winter Case,Mil-Spec,0,0.5,1
+The Kraken,Sawed-Off,Winter Offensive Weapon Case,Covert,0,0.4,1
+Crimson Web,CZ75-Auto,CS:GO Weapon Case 3,Mil-Spec,0.06,0.8,1
+Red FragCam,P2000,CS:GO Weapon Case 3,Mil-Spec,0,0.7,1
+Panther,Dual Berettas,CS:GO Weapon Case 3,Mil-Spec,0,0.58,1
+Stainless,USP-S,CS:GO Weapon Case 3,Mil-Spec,0,0.8,1
+Blue Fissure,Glock-18,CS:GO Weapon Case 3,Mil-Spec,0.06,0.58,1
+Tread Plate,CZ75-Auto,CS:GO Weapon Case 3,Restricted,0,0.2,1
+Titanium Bit,Tec-9,CS:GO Weapon Case 3,Restricted,0,0.2,1
+Heirloom,Desert Eagle,CS:GO Weapon Case 3,Restricted,0,0.8,1
+Copper Galaxy,Five-SeveN,CS:GO Weapon Case 3,Restricted,0,0.2,1
+The Fuschia Is Now,CZ75-Auto,CS:GO Weapon Case 3,Classified,0,0.4,1
+Undertow,P250,CS:GO Weapon Case 3,Classified,0,0.2,1
+Victoria,CZ75-Auto,CS:GO Weapon Case 3,Covert,0,0.75,1
+Corporal,UMP-45,Operation Phoenix Weapon Case,Mil-Spec,0.05,0.75,1
+Terrain,Negev,Operation Phoenix Weapon Case,Mil-Spec,0,0.45,1
+Sandstorm,Tec-9,Operation Phoenix Weapon Case,Mil-Spec,0.1,0.7,1
+Heaven Guard,MAG-7,Operation Phoenix Weapon Case,Mil-Spec,0,0.4,1
+Heat,MAC-10,Operation Phoenix Weapon Case,Restricted,0,1,1
+Pulse,SG 553,Operation Phoenix Weapon Case,Restricted,0.1,0.6,1
+Sergeant,FAMAS,Operation Phoenix Weapon Case,Restricted,0.1,1,1
+Guardian,USP-S,Operation Phoenix Weapon Case,Restricted,0,0.38,1
+Redline,AK-47,Operation Phoenix Weapon Case,Classified,0.1,0.7,1
+Trigon,P90,Operation Phoenix Weapon Case,Classified,0.08,0.75,1
+Antique,Nova,Operation Phoenix Weapon Case,Classified,0,0.3,1
+Asiimov,AWP,Operation Phoenix Weapon Case,Covert,0.18,1,1
+Chameleon,AUG,Operation Phoenix Weapon Case,Covert,0,0.5,1
+Vanilla,Gut Knife,Revolver Case,Covert,0,0,1
+Blue Steel,Gut Knife,Revolver Case,Covert,0,1,1
+Boreal Forest,Gut Knife,Revolver Case,Covert,0.06,0.8,1
+Case Hardened,Gut Knife,Revolver Case,Covert,0,1,1
+Crimson Web,Gut Knife,Revolver Case,Covert,0.06,0.8,1
+Fade,Gut Knife,Revolver Case,Covert,0,0.08,1
+Forest DDPAT,Gut Knife,Revolver Case,Covert,0.06,0.8,1
+Night,Gut Knife,Revolver Case,Covert,0.06,0.8,1
+Safari Mesh,Gut Knife,Revolver Case,Covert,0.06,0.8,1
+Scorched,Gut Knife,Revolver Case,Covert,0.06,0.8,1
+Slaughter,Gut Knife,Revolver Case,Covert,0.01,0.26,1
+Stained,Gut Knife,Revolver Case,Covert,0,1,1
+Urban Masked,Gut Knife,Revolver Case,Covert,0.06,0.8,1
+Vanilla,Flip Knife,Revolver Case,Covert,0,0,1
+Blue Steel,Flip Knife,Revolver Case,Covert,0,1,1
+Boreal Forest,Flip Knife,Revolver Case,Covert,0.06,0.8,1
+Case Hardened,Flip Knife,Revolver Case,Covert,0,1,1
+Crimson Web,Flip Knife,Revolver Case,Covert,0.06,0.8,1
+Fade,Flip Knife,Revolver Case,Covert,0,0.08,1
+Forest DDPAT,Flip Knife,Revolver Case,Covert,0.06,0.8,1
+Night,Flip Knife,Revolver Case,Covert,0.06,0.8,1
+Safari Mesh,Flip Knife,Revolver Case,Covert,0.06,0.8,1
+Scorched,Flip Knife,Revolver Case,Covert,0.06,0.8,1
+Slaughter,Flip Knife,Revolver Case,Covert,0.01,0.26,1
+Stained,Flip Knife,Revolver Case,Covert,0,1,1
+Urban Masked,Flip Knife,Revolver Case,Covert,0.06,0.8,1
+Vanilla,Bayonet,Revolver Case,Covert,0,0,1
+Blue Steel,Bayonet,Revolver Case,Covert,0,1,1
+Boreal Forest,Bayonet,Revolver Case,Covert,0.06,0.8,1
+Case Hardened,Bayonet,Revolver Case,Covert,0,1,1
+Crimson Web,Bayonet,Revolver Case,Covert,0.06,0.8,1
+Fade,Bayonet,Revolver Case,Covert,0,0.08,1
+Forest DDPAT,Bayonet,Revolver Case,Covert,0.06,0.8,1
+Night,Bayonet,Revolver Case,Covert,0.06,0.8,1
+Safari Mesh,Bayonet,Revolver Case,Covert,0.06,0.8,1
+Scorched,Bayonet,Revolver Case,Covert,0.06,0.8,1
+Slaughter,Bayonet,Revolver Case,Covert,0.01,0.26,1
+Stained,Bayonet,Revolver Case,Covert,0,1,1
+Urban Masked,Bayonet,Revolver Case,Covert,0.06,0.8,1
+Vanilla,M9 Bayonet,Revolver Case,Covert,0,0,1
+Blue Steel,M9 Bayonet,Revolver Case,Covert,0,1,1
+Boreal Forest,M9 Bayonet,Revolver Case,Covert,0.06,0.8,1
+Case Hardened,M9 Bayonet,Revolver Case,Covert,0,1,1
+Crimson Web,M9 Bayonet,Revolver Case,Covert,0.06,0.8,1
+Fade,M9 Bayonet,Revolver Case,Covert,0,0.08,1
+Forest DDPAT,M9 Bayonet,Revolver Case,Covert,0.06,0.8,1
+Night,M9 Bayonet,Revolver Case,Covert,0.06,0.8,1
+Safari Mesh,M9 Bayonet,Revolver Case,Covert,0.06,0.8,1
+Scorched,M9 Bayonet,Revolver Case,Covert,0.06,0.8,1
+Slaughter,M9 Bayonet,Revolver Case,Covert,0.01,0.26,1
+Stained,M9 Bayonet,Revolver Case,Covert,0,1,1
+Urban Masked,M9 Bayonet,Revolver Case,Covert,0.06,0.8,1
+Vanilla,Karambit,Revolver Case,Covert,0,0,1
+Blue Steel,Karambit,Revolver Case,Covert,0,1,1
+Boreal Forest,Karambit,Revolver Case,Covert,0.06,0.8,1
+Case Hardened,Karambit,Revolver Case,Covert,0,1,1
+Crimson Web,Karambit,Revolver Case,Covert,0.06,0.8,1
+Fade,Karambit,Revolver Case,Covert,0,0.08,1
+Forest DDPAT,Karambit,Revolver Case,Covert,0.06,0.8,1
+Night,Karambit,Revolver Case,Covert,0.06,0.8,1
+Safari Mesh,Karambit,Revolver Case,Covert,0.06,0.8,1
+Scorched,Karambit,Revolver Case,Covert,0.06,0.8,1
+Slaughter,Karambit,Revolver Case,Covert,0.01,0.26,1
+Stained,Karambit,Revolver Case,Covert,0,1,1
+Urban Masked,Karambit,Revolver Case,Covert,0.06,0.8,1
+Isaac,Tec-9,Huntsman Weapon Case,Mil-Spec,0,1,1
+Slashed,SSG 08,Huntsman Weapon Case,Mil-Spec,0.15,0.8,1
+Retribution,Dual Berettas,Huntsman Weapon Case,Mil-Spec,0,0.45,1
+Kami,Galil AR,Huntsman Weapon Case,Mil-Spec,0,0.6,1
+Desert Warfare,P90,Huntsman Weapon Case,Mil-Spec,0,0.5,1
+Poison Dart,CZ75-Auto,Huntsman Weapon Case,Mil-Spec,0,0.7,1
+Torque,AUG,Huntsman Weapon Case,Restricted,0,0.5,1
+Antique,PP-Bizon,Huntsman Weapon Case,Restricted,0,0.5,1
+Curse,MAC-10,Huntsman Weapon Case,Restricted,0,0.5,1
+Heaven Guard,XM1014,Huntsman Weapon Case,Restricted,0.03,0.5,1
+Atomic Alloy,M4A1-S,Huntsman Weapon Case,Classified,0,0.9,1
+Cyrex,SCAR-20,Huntsman Weapon Case,Classified,0,0.5,1
+Orion,USP-S,Huntsman Weapon Case,Classified,0,0.5,1
+Vulcan,AK-47,Huntsman Weapon Case,Covert,0,0.9,1
+Howl,M4A4,Contraband,Contraband,0,0.4,1
+Franklin,P250,The Bank Collection,Classified,0,0.4,0
+Emerald Pinstripe,AK-47,The Bank Collection,Restricted,0,1,0
+Tuxedo,CZ75-Auto,The Bank Collection,Mil-Spec,0,0.8,0
+Meteorite,Desert Eagle,The Bank Collection,Mil-Spec,0,0.18,0
+Green Apple,G3SG1,The Bank Collection,Industrial,0,0.3,0
+Tuxedo,Galil AR,The Bank Collection,Mil-Spec,0,0.8,0
+Death Rattle,Glock-18,The Bank Collection,Industrial,0.08,0.5,0
+Silver,MAC-10,The Bank Collection,Industrial,0,0.08,0
+Forest DDPAT,MP7,The Bank Collection,Consumer,0.06,0.8,0
+Army Sheen,Negev,The Bank Collection,Consumer,0,0.3,0
+Caged Steel,Nova,The Bank Collection,Industrial,0,0.2,0
+Forest DDPAT,Sawed-Off,The Bank Collection,Consumer,0.06,0.8,0
+Army Sheen,SG 553,The Bank Collection,Consumer,0,0.3,0
+Urban DDPAT,Tec-9,The Bank Collection,Consumer,0.06,0.8,0
+Carbon Fiber,UMP-45,The Bank Collection,Industrial,0,0.12,0
+Vanilla,Huntsman Knife,Huntsman Weapon Case,Covert,0,0,1
+Blue Steel,Huntsman Knife,Huntsman Weapon Case,Covert,0,1,1
+Boreal Forest,Huntsman Knife,Huntsman Weapon Case,Covert,0.06,0.8,1
+Case Hardened,Huntsman Knife,Huntsman Weapon Case,Covert,0,1,1
+Crimson Web,Huntsman Knife,Huntsman Weapon Case,Covert,0.06,0.8,1
+Fade,Huntsman Knife,Huntsman Weapon Case,Covert,0,0.08,1
+Forest DDPAT,Huntsman Knife,Huntsman Weapon Case,Covert,0.06,0.8,1
+Night,Huntsman Knife,Huntsman Weapon Case,Covert,0.06,0.8,1
+Safari Mesh,Huntsman Knife,Huntsman Weapon Case,Covert,0.06,0.8,1
+Scorched,Huntsman Knife,Huntsman Weapon Case,Covert,0.06,0.8,1
+Slaughter,Huntsman Knife,Huntsman Weapon Case,Covert,0.01,0.26,1
+Stained,Huntsman Knife,Huntsman Weapon Case,Covert,0,1,1
+Urban Masked,Huntsman Knife,Huntsman Weapon Case,Covert,0.06,0.8,1
+Twist,CZ75-Auto,Huntsman Weapon Case,Mil-Spec,0,1,1
+Module,P90,Huntsman Weapon Case,Mil-Spec,0,0.35,1
+Pulse,P2000,Huntsman Weapon Case,Mil-Spec,0,0.6,1
+Tatter,MAC-10,Huntsman Weapon Case,Restricted,0,0.5,1
+Caiman,USP-S,Huntsman Weapon Case,Classified,0,0.4,1
+Desert-Strike,M4A4,Huntsman Weapon Case,Covert,0,0.7,1
+Cyrex,M4A1-S,Operation Breakout Weapon Case,Covert,0,0.5,1
+Urban Hazard,MP7,Operation Breakout Weapon Case,Mil-Spec,0,0.5,1
+Desert-Strike,Negev,Operation Breakout Weapon Case,Mil-Spec,0,0.5,1
+Koi,Nova,Operation Breakout Weapon Case,Restricted,0,0.3,1
+Supernova,P250,Operation Breakout Weapon Case,Restricted,0,0.4,1
+Abyss,SSG 08,Operation Breakout Weapon Case,Mil-Spec,0,1,1
+Labyrinth,UMP-45,Operation Breakout Weapon Case,Mil-Spec,0,0.4,1
+Osiris,PP-Bizon,Operation Breakout Weapon Case,Restricted,0,0.5,1
+Tigris,CZ75-Auto,Operation Breakout Weapon Case,Restricted,0,1,1
+Conspiracy,Desert Eagle,Operation Breakout Weapon Case,Classified,0,0.3,1
+Fowl Play,Five-SeveN,Operation Breakout Weapon Case,Classified,0,1,1
+Water Elemental,Glock-18,Operation Breakout Weapon Case,Classified,0,0.7,1
+Ivory,P2000,Operation Breakout Weapon Case,Mil-Spec,0,1,1
+Asiimov,P90,Operation Breakout Weapon Case,Covert,0,0.92,1
+Leather,P90,The Baggage Collection,Industrial,0,1,0
+Commuter,MAC-10,The Baggage Collection,Industrial,0,1,0
+First Class,Sawed-Off,The Baggage Collection,Mil-Spec,0,0.5,0
+Coach Class,P2000,The Baggage Collection,Industrial,0,1,0
+Business Class,USP-S,The Baggage Collection,Mil-Spec,0,1,0
+Contractor,G3SG1,The Baggage Collection,Consumer,0.06,0.8,0
+Olive Plaid,MP7,The Baggage Collection,Consumer,0,0.58,0
+Green Plaid,CZ75-Auto,The Baggage Collection,Consumer,0,0.58,0
+Green Plaid,MP9,The Baggage Collection,Consumer,0,0.58,0
+Sand Dune,SSG 08,The Baggage Collection,Consumer,0.06,0.8,0
+Traveler,SG 553,The Baggage Collection,Industrial,0,1,0
+Red Leather,XM1014,The Baggage Collection,Mil-Spec,0,0.56,0
+Pilot,Desert Eagle,The Baggage Collection,Restricted,0,1,0
+Jet Set,AK-47,The Baggage Collection,Classified,0,1,0
+First Class,AK-47,The Baggage Collection,Restricted,0,1,0
+Dragon Lore,AWP,The Cobblestone Collection,Covert,0,0.7,0
+Storm,P90,The Cobblestone Collection,Consumer,0.06,0.8,0
+Indigo,UMP-45,The Cobblestone Collection,Consumer,0.06,0.8,0
+Indigo,MAC-10,The Cobblestone Collection,Consumer,0.06,0.8,0
+Storm,SCAR-20,The Cobblestone Collection,Consumer,0.06,0.8,0
+Royal Blue,USP-S,The Cobblestone Collection,Industrial,0.06,0.8,0
+Briar,Dual Berettas,The Cobblestone Collection,Consumer,0,0.22,0
+Green Apple,Nova,The Cobblestone Collection,Industrial,0,0.3,0
+Silver,MAG-7,The Cobblestone Collection,Industrial,0,0.08,0
+Dark Age,MP9,The Cobblestone Collection,Mil-Spec,0,0.22,0
+Hand Cannon,Desert Eagle,The Cobblestone Collection,Restricted,0.01,0.7,0
+Chainmail,P2000,The Cobblestone Collection,Mil-Spec,0,0.22,0
+Rust Coat,Sawed-Off,The Cobblestone Collection,Industrial,0,0.8,0
+Knight,M4A1-S,The Cobblestone Collection,Classified,0,0.1,0
+Chalice,CZ75-Auto,The Cobblestone Collection,Restricted,0,0.1,0
+Master Piece,M4A1-S,The Overpass Collection,Classified,0,1,0
+Urban DDPAT,Desert Eagle,The Overpass Collection,Industrial,0.06,0.8,0
+Gunsmoke,MP7,The Overpass Collection,Industrial,0.06,0.8,0
+Night,Glock-18,The Overpass Collection,Industrial,0.06,0.8,0
+Grassland,P2000,The Overpass Collection,Industrial,0.06,0.8,0
+Nitro,CZ75-Auto,The Overpass Collection,Mil-Spec,0.06,0.8,0
+Sage Spray,Sawed-Off,The Overpass Collection,Consumer,0.06,0.8,0
+Scorched,UMP-45,The Overpass Collection,Consumer,0.06,0.8,0
+Contrast Spray,M249,The Overpass Collection,Consumer,0.06,0.8,0
+Storm,MAG-7,The Overpass Collection,Consumer,0.06,0.8,0
+Storm,MP9,The Overpass Collection,Consumer,0.06,0.8,0
+VariCamo Blue,XM1014,The Overpass Collection,Mil-Spec,0,0.5,0
+Pink DDPAT,AWP,The Overpass Collection,Restricted,0.06,0.8,0
+Road Rash,USP-S,The Overpass Collection,Restricted,0,1,0
+Detour,SSG 08,The Overpass Collection,Mil-Spec,0,0.43,0
+Vanilla,Butterfly Knife,Operation Breakout Weapon Case,Covert,0,0,1
+Blue Steel,Butterfly Knife,Operation Breakout Weapon Case,Covert,0,1,1
+Boreal Forest,Butterfly Knife,Operation Breakout Weapon Case,Covert,0.06,0.8,1
+Case Hardened,Butterfly Knife,Operation Breakout Weapon Case,Covert,0,1,1
+Crimson Web,Butterfly Knife,Operation Breakout Weapon Case,Covert,0.06,0.8,1
+Fade,Butterfly Knife,Operation Breakout Weapon Case,Covert,0,0.08,1
+Forest DDPAT,Butterfly Knife,Operation Breakout Weapon Case,Covert,0.06,0.8,1
+Night,Butterfly Knife,Operation Breakout Weapon Case,Covert,0.06,0.8,1
+Safari Mesh,Butterfly Knife,Operation Breakout Weapon Case,Covert,0.06,0.8,1
+Scorched,Butterfly Knife,Operation Breakout Weapon Case,Covert,0.06,0.8,1
+Slaughter,Butterfly Knife,Operation Breakout Weapon Case,Covert,0.01,0.26,1
+Stained,Butterfly Knife,Operation Breakout Weapon Case,Covert,0,1,1
+Urban Masked,Butterfly Knife,Operation Breakout Weapon Case,Covert,0.06,0.8,1
+Bullet Rain,M4A4,eSports 2014 Summer Case,Covert,0.02,0.46,1
+Corticera,P2000,eSports 2014 Summer Case,Classified,0.06,0.3,1
+Corticera,AWP,eSports 2014 Summer Case,Classified,0.06,0.3,1
+Jaguar,AK-47,eSports 2014 Summer Case,Covert,0,1,1
+Bloomstick,Nova,eSports 2014 Summer Case,Classified,0.06,0.8,1
+Bengal Tiger,AUG,eSports 2014 Summer Case,Classified,0.06,0.8,1
+Crimson Web,Desert Eagle,eSports 2014 Summer Case,Restricted,0.06,0.8,1
+Steel Disruption,Glock-18,eSports 2014 Summer Case,Restricted,0,0.2,1
+Ocean Foam,MP7,eSports 2014 Summer Case,Restricted,0,0.08,1
+Blue Streak,PP-Bizon,eSports 2014 Summer Case,Restricted,0.06,0.8,1
+Red Python,XM1014,eSports 2014 Summer Case,Mil-Spec,0.08,0.5,1
+Bratatat,Negev,eSports 2014 Summer Case,Mil-Spec,0,1,1
+Hexane,CZ75-Auto,eSports 2014 Summer Case,Mil-Spec,0,0.4,1
+Blood Tiger,USP-S,eSports 2014 Summer Case,Mil-Spec,0,0.3,1
+Ultraviolet,MAC-10,eSports 2014 Summer Case,Mil-Spec,0.06,0.8,1
+Dark Water,SSG 08,eSports 2014 Summer Case,Mil-Spec,0.1,0.26,1
+Virus,P90,eSports 2014 Summer Case,Restricted,0.06,0.8,1
+Cerberus,Galil AR,The Cache Collection,Restricted,0,0.9,0
+Toxic,Tec-9,The Cache Collection,Mil-Spec,0,0.7,0
+Reactor,Glock-18,The Cache Collection,Mil-Spec,0,1,0
+Bone Machine,XM1014,The Cache Collection,Mil-Spec,0,0.6,0
+Nuclear Garden,MAC-10,The Cache Collection,Mil-Spec,0,0.7,0
+Radiation Hazard,AUG,The Cache Collection,Industrial,0,0.55,0
+Setting Sun,MP9,The Cache Collection,Mil-Spec,0,1,0
+Chemical Green,PP-Bizon,The Cache Collection,Industrial,0,0.9,0
+Nuclear Waste,Negev,The Cache Collection,Industrial,0,0.4,0
+Styx,FAMAS,The Cache Collection,Restricted,0,0.6,0
+Contamination,P250,The Cache Collection,Industrial,0,0.83,0
+Hot Shot,Five-SeveN,The Cache Collection,Industrial,0,1,0
+Fallout Warning,SG 553,The Cache Collection,Industrial,0,0.8,0
+Wasteland Rebel,AK-47,Operation Vanguard Weapon Case,Covert,0.05,0.7,1
+Urban Hazard,Five-SeveN,Operation Vanguard Weapon Case,Mil-Spec,0,0.25,1
+Murky,G3SG1,Operation Vanguard Weapon Case,Mil-Spec,0,0.25,1
+Grinder,Glock-18,Operation Vanguard Weapon Case,Restricted,0.02,0.25,1
+Basilisk,M4A1-S,Operation Vanguard Weapon Case,Restricted,0,0.68,1
+Griffin,M4A4,Operation Vanguard Weapon Case,Restricted,0,0.8,1
+Firestarter,MAG-7,Operation Vanguard Weapon Case,Mil-Spec,0.06,0.49,1
+Dart,MP9,Operation Vanguard Weapon Case,Mil-Spec,0,0.46,1
+Cartel,P250,Operation Vanguard Weapon Case,Classified,0,0.75,1
+Fire Elemental,P2000,Operation Vanguard Weapon Case,Covert,0,0.6,1
+Highwayman,Sawed-Off,Operation Vanguard Weapon Case,Restricted,0,1,1
+Cardiac,SCAR-20,Operation Vanguard Weapon Case,Classified,0,1,1
+Delusion,UMP-45,Operation Vanguard Weapon Case,Mil-Spec,0.06,0.35,1
+Tranquility,XM1014,Operation Vanguard Weapon Case,Classified,0,0.5,1
+Cartel,AK-47,Chroma Case,Classified,0,0.75,1
+Man-o'-war,AWP,Chroma Case,Covert,0.1,0.2,1
+Naga,Desert Eagle,Chroma Case,Restricted,0,1,1
+Chatterbox,Galil AR,Chroma Case,Covert,0.35,0.85,1
+Catacombs,Glock-18,Chroma Case,Mil-Spec,0,0.5,1
+System Lock,M249,Chroma Case,Mil-Spec,0,0.8,1
+Quicksilver,XM1014,Chroma Case,Mil-Spec,0,0.5,1
+Malachite,MAC-10,Chroma Case,Restricted,0,0.5,1
+Deadly Poison,MP9,Chroma Case,Mil-Spec,0,1,1
+Muertos,P250,Chroma Case,Classified,0,0.6,1
+龍王 (Dragon King),M4A4,Chroma Case,Classified,0,0.75,1
+Serenity,Sawed-Off,Chroma Case,Restricted,0,0.5,1
+Grotto,SCAR-20,Chroma Case,Mil-Spec,0,0.5,1
+Urban Shock,Dual Berettas,Chroma Case,Restricted,0,0.47,1
+Damascus Steel,Gut Knife,Chroma 3 Case,Covert,0,0.5,1
+Doppler,Gut Knife,Chroma 3 Case,Covert,0,0.08,1
+Marble Fade,Gut Knife,Chroma 3 Case,Covert,0,0.08,1
+Tiger Tooth,Gut Knife,Chroma 3 Case,Covert,0,0.08,1
+Rust Coat,Gut Knife,Chroma 3 Case,Covert,0.4,1,1
+Ultraviolet,Gut Knife,Chroma 3 Case,Covert,0.06,0.8,1
+Damascus Steel,Flip Knife,Chroma 3 Case,Covert,0,0.5,1
+Doppler,Flip Knife,Chroma 3 Case,Covert,0,0.08,1
+Marble Fade,Flip Knife,Chroma 3 Case,Covert,0,0.08,1
+Tiger Tooth,Flip Knife,Chroma 3 Case,Covert,0,0.08,1
+Rust Coat,Flip Knife,Chroma 3 Case,Covert,0.4,1,1
+Ultraviolet,Flip Knife,Chroma 3 Case,Covert,0.06,0.8,1
+Damascus Steel,Bayonet,Chroma 3 Case,Covert,0,0.5,1
+Doppler,Bayonet,Chroma 3 Case,Covert,0,0.08,1
+Marble Fade,Bayonet,Chroma 3 Case,Covert,0,0.08,1
+Tiger Tooth,Bayonet,Chroma 3 Case,Covert,0,0.08,1
+Rust Coat,Bayonet,Chroma 3 Case,Covert,0.4,1,1
+Ultraviolet,Bayonet,Chroma 3 Case,Covert,0.06,0.8,1
+Damascus Steel,M9 Bayonet,Chroma 3 Case,Covert,0,0.5,1
+Doppler,M9 Bayonet,Chroma 3 Case,Covert,0,0.08,1
+Marble Fade,M9 Bayonet,Chroma 3 Case,Covert,0,0.08,1
+Tiger Tooth,M9 Bayonet,Chroma 3 Case,Covert,0,0.08,1
+Rust Coat,M9 Bayonet,Chroma 3 Case,Covert,0.4,1,1
+Ultraviolet,M9 Bayonet,Chroma 3 Case,Covert,0.06,0.8,1
+Damascus Steel,Karambit,Chroma 3 Case,Covert,0,0.5,1
+Doppler,Karambit,Chroma 3 Case,Covert,0,0.08,1
+Marble Fade,Karambit,Chroma 3 Case,Covert,0,0.08,1
+Tiger Tooth,Karambit,Chroma 3 Case,Covert,0,0.08,1
+Rust Coat,Karambit,Chroma 3 Case,Covert,0.4,1,1
+Ultraviolet,Karambit,Chroma 3 Case,Covert,0.06,0.8,1
+Neon Rider,MAC-10,Chroma 2 Case,Covert,0,0.45,1
+Hyper Beast,M4A1-S,Chroma 2 Case,Covert,0,1,1
+Djinn,FAMAS,Chroma 2 Case,Classified,0,1,1
+Eco,Galil AR,Chroma 2 Case,Classified,0.1,0.85,1
+Monkey Business,Five-SeveN,Chroma 2 Case,Classified,0.1,0.9,1
+Grand Prix,UMP-45,Chroma 2 Case,Restricted,0.25,0.35,1
+Pole Position,CZ75-Auto,Chroma 2 Case,Restricted,0,0.7,1
+Heat,MAG-7,Chroma 2 Case,Restricted,0,1,1
+Worm God,AWP,Chroma 2 Case,Restricted,0,0.45,1
+Origami,Sawed-Off,Chroma 2 Case,Mil-Spec,0,0.55,1
+Man-o'-war,Negev,Chroma 2 Case,Mil-Spec,0.1,0.2,1
+Valence,P250,Chroma 2 Case,Mil-Spec,0,0.8,1
+Bronze Deco,Desert Eagle,Chroma 2 Case,Mil-Spec,0,0.46,1
+Armor Core,MP7,Chroma 2 Case,Mil-Spec,0,0.5,1
+Elite Build,AK-47,Chroma 2 Case,Mil-Spec,0,1,1
+Hyper Beast,AWP,Falchion Case,Covert,0,1,1
+Aquamarine Revenge,AK-47,Falchion Case,Covert,0,1,1
+Cyrex,SG 553,Falchion Case,Classified,0,1,1
+Nemesis,MP7,Falchion Case,Classified,0,0.32,1
+Yellow Jacket,CZ75-Auto,Falchion Case,Classified,0,1,1
+Handgun,P2000,Falchion Case,Restricted,0,1,1
+Loudmouth,Negev,Falchion Case,Restricted,0.14,0.65,1
+Ruby Poison Dart,MP9,Falchion Case,Restricted,0,0.5,1
+Evil Daimyo,M4A4,Falchion Case,Restricted,0,0.52,1
+Neural Net,FAMAS,Falchion Case,Restricted,0,0.6,1
+Torque,USP-S,Falchion Case,Mil-Spec,0,0.46,1
+Riot,UMP-45,Falchion Case,Mil-Spec,0,0.7,1
+Elite Build,P90,Falchion Case,Mil-Spec,0,1,1
+Ranger,Nova,Falchion Case,Mil-Spec,0,1,1
+Bunsen Burner,Glock-18,Falchion Case,Mil-Spec,0,0.8,1
+Rocket Pop,Galil AR,Falchion Case,Mil-Spec,0,1,1
+Army Sheen,SCAR-20,The Chop Shop Collection,Consumer,0,0.3,0
+Army Sheen,CZ75-Auto,The Chop Shop Collection,Consumer,0,0.3,0
+Impact Drill,M249,The Chop Shop Collection,Consumer,0,1,0
+Seabird,MAG-7,The Chop Shop Collection,Consumer,0,1,0
+Night,Desert Eagle,The Chop Shop Collection,Industrial,0.06,0.8,0
+Urban Rubble,Galil AR,The Chop Shop Collection,Industrial,0,0.5,0
+Para Green,USP-S,The Chop Shop Collection,Industrial,0,0.8,0
+Fade,MAC-10,The Chop Shop Collection,Mil-Spec,0,0.08,0
+Whiteout,P250,The Chop Shop Collection,Mil-Spec,0.06,0.8,0
+Full Stop,MP7,The Chop Shop Collection,Mil-Spec,0,0.6,0
+Nitro,Five-SeveN,The Chop Shop Collection,Mil-Spec,0.06,0.8,0
+Emerald,CZ75-Auto,The Chop Shop Collection,Mil-Spec,0,0.08,0
+Bulldozer,SG 553,The Chop Shop Collection,Restricted,0.06,0.8,0
+Duelist,Dual Berettas,The Chop Shop Collection,Restricted,0,1,0
+Twilight Galaxy,Glock-18,The Chop Shop Collection,Classified,0,0.2,0
+Hot Rod,M4A1-S,The Chop Shop Collection,Classified,0,0.08,0
+Asterion,MP7,The Gods and Monsters Collection,Consumer,0,0.55,0
+Daedalus,AUG,The Gods and Monsters Collection,Consumer,0,0.55,0
+Moon in Libra,Dual Berettas,The Gods and Monsters Collection,Consumer,0,0.5,0
+Moon in Libra,Nova,The Gods and Monsters Collection,Consumer,0,0.5,0
+Hades,Tec-9,The Gods and Monsters Collection,Industrial,0,1,0
+Pathfinder,P2000,The Gods and Monsters Collection,Industrial,0,0.35,0
+Sun in Leo,AWP,The Gods and Monsters Collection,Industrial,0,0.5,0
+Shipping Forecast,M249,The Gods and Monsters Collection,Industrial,0,0.5,0
+Minotaur's Labyrinth,UMP-45,The Gods and Monsters Collection,Mil-Spec,0,0.39,0
+Pandora's Box,MP9,The Gods and Monsters Collection,Mil-Spec,0,0.3,0
+Chronos,G3SG1,The Gods and Monsters Collection,Restricted,0,0.4,0
+Icarus Fell,M4A1-S,The Gods and Monsters Collection,Restricted,0,0.1,0
+Poseidon,M4A4,The Gods and Monsters Collection,Classified,0,0.33,0
+Medusa,AWP,The Gods and Monsters Collection,Covert,0,1,0
+Bamboo Print,PP-Bizon,The Rising Sun Collection,Consumer,0,0.8,0
+Bamboo Shadow,Sawed-Off,The Rising Sun Collection,Consumer,0,0.6,0
+Bamboo Forest,Tec-9,The Rising Sun Collection,Consumer,0,0.6,0
+Orange Kimono,G3SG1,The Rising Sun Collection,Consumer,0,0.8,0
+Mint Kimono,P250,The Rising Sun Collection,Consumer,0,0.8,0
+Crimson Kimono,P250,The Rising Sun Collection,Industrial,0,0.8,0
+Midnight Storm,Desert Eagle,The Rising Sun Collection,Industrial,0,0.75,0
+Aqua Terrace,Galil AR,The Rising Sun Collection,Mil-Spec,0,0.7,0
+Counter Terrace,MAG-7,The Rising Sun Collection,Mil-Spec,0,0.65,0
+Terrace,Tec-9,The Rising Sun Collection,Mil-Spec,0,1,0
+Neon Kimono,Five-SeveN,The Rising Sun Collection,Restricted,0,0.8,0
+Sunset Storm 壱,Desert Eagle,The Rising Sun Collection,Restricted,0,0.75,0
+Sunset Storm 弐,Desert Eagle,The Rising Sun Collection,Restricted,0,0.75,0
+Daybreak,M4A4,The Rising Sun Collection,Restricted,0,0.6,0
+Hydroponic,AK-47,The Rising Sun Collection,Classified,0,0.8,0
+Akihabara Accept,AUG,The Rising Sun Collection,Covert,0,1,0
+Vanilla,Falchion Knife,Falchion Case,Covert,0,0,1
+Blue Steel,Falchion Knife,Falchion Case,Covert,0,1,1
+Boreal Forest,Falchion Knife,Falchion Case,Covert,0.06,0.8,1
+Case Hardened,Falchion Knife,Falchion Case,Covert,0,1,1
+Crimson Web,Falchion Knife,Falchion Case,Covert,0.06,0.8,1
+Fade,Falchion Knife,Falchion Case,Covert,0,0.08,1
+Forest DDPAT,Falchion Knife,Falchion Case,Covert,0.06,0.8,1
+Night,Falchion Knife,Falchion Case,Covert,0.06,0.8,1
+Safari Mesh,Falchion Knife,Falchion Case,Covert,0.06,0.8,1
+Scorched,Falchion Knife,Falchion Case,Covert,0.06,0.8,1
+Slaughter,Falchion Knife,Falchion Case,Covert,0.01,0.26,1
+Stained,Falchion Knife,Falchion Case,Covert,0,1,1
+Urban Masked,Falchion Knife,Falchion Case,Covert,0.06,0.8,1
+Dualing Dragons,Dual Berettas,Shadow Case,Mil-Spec,0,1,1
+Survivor Z,FAMAS,Shadow Case,Mil-Spec,0,0.6,1
+Wraiths,Glock-18,Shadow Case,Mil-Spec,0,0.8,1
+Rangeen,MAC-10,Shadow Case,Mil-Spec,0,0.5,1
+Cobalt Core,MAG-7,Shadow Case,Mil-Spec,0,0.5,1
+Green Marine,SCAR-20,Shadow Case,Mil-Spec,0,0.8,1
+Scumbria,XM1014,Shadow Case,Mil-Spec,0,1,1
+Stone Cold,Galil AR,Shadow Case,Restricted,0,0.9,1
+Nebula Crusader,M249,Shadow Case,Restricted,0,1,1
+Special Delivery,MP7,Shadow Case,Restricted,0,0.62,1
+Wingshot,P250,Shadow Case,Restricted,0,0.9,1
+Frontside Misty,AK-47,Shadow Case,Classified,0.02,0.87,1
+Flux,G3SG1,Shadow Case,Classified,0,0.9,1
+Big Iron,SSG 08,Shadow Case,Classified,0,0.64,1
+Golden Coil,M4A1-S,Shadow Case,Covert,0,1,1
+Kill Confirmed,USP-S,Shadow Case,Covert,0,1,1
+Vanilla,Shadow Daggers,Shadow Case,Covert,0,0,1
+Blue Steel,Shadow Daggers,Shadow Case,Covert,0,1,1
+Boreal Forest,Shadow Daggers,Shadow Case,Covert,0.06,0.8,1
+Case Hardened,Shadow Daggers,Shadow Case,Covert,0,1,1
+Crimson Web,Shadow Daggers,Shadow Case,Covert,0.06,0.8,1
+Fade,Shadow Daggers,Shadow Case,Covert,0,0.08,1
+Forest DDPAT,Shadow Daggers,Shadow Case,Covert,0.06,0.8,1
+Night,Shadow Daggers,Shadow Case,Covert,0.06,0.8,1
+Safari Mesh,Shadow Daggers,Shadow Case,Covert,0.06,0.8,1
+Scorched,Shadow Daggers,Shadow Case,Covert,0.06,0.8,1
+Slaughter,Shadow Daggers,Shadow Case,Covert,0.01,0.26,1
+Stained,Shadow Daggers,Shadow Case,Covert,0,1,1
+Urban Masked,Shadow Daggers,Shadow Case,Covert,0.06,0.8,1
+Fade,R8 Revolver,Revolver Case,Covert,0,0.4,1
+Royal Paladin,M4A4,Revolver Case,Covert,0,0.8,1
+Crimson Web,R8 Revolver,Revolver Case,Mil-Spec,0.06,0.8,1
+Ricochet,AUG,Revolver Case,Mil-Spec,0,0.8,1
+Corinthian,Desert Eagle,Revolver Case,Mil-Spec,0,0.44,1
+Imperial,P2000,Revolver Case,Mil-Spec,0,0.2,1
+Yorick,Sawed-Off,Revolver Case,Mil-Spec,0,1,1
+Outbreak,SCAR-20,Revolver Case,Mil-Spec,0,0.5,1
+Fuel Rod,PP-Bizon,Revolver Case,Restricted,0,1,1
+Power Loader,Negev,Revolver Case,Restricted,0,1,1
+Retrobution,Five-SeveN,Revolver Case,Restricted,0,1,1
+Tiger Moth,SG 553,Revolver Case,Restricted,0,1,1
+Avalanche,Tec-9,Revolver Case,Restricted,0,1,1
+Teclu Burner,XM1014,Revolver Case,Restricted,0,0.65,1
+Point Disarray,AK-47,Revolver Case,Classified,0,0.67,1
+Shapewood,P90,Revolver Case,Classified,0,1,1
+The Executioner,G3SG1,Revolver Case,Classified,0.14,0.85,1
+Amber Fade,R8 Revolver,The Dust 2 Collection,Classified,0,0.4,0
+Bone Mask,R8 Revolver,The Bank Collection,Consumer,0.06,0.8,0
+Photic Zone,PP-Bizon,Operation Wildfire Case,Mil-Spec,0,1,1
+Cartel,Dual Berettas,Operation Wildfire Case,Mil-Spec,0,1,1
+Lapis Gator,MAC-10,Operation Wildfire Case,Mil-Spec,0,0.5,1
+Necropos,SSG 08,Operation Wildfire Case,Mil-Spec,0,1,1
+Jambiya,Tec-9,Operation Wildfire Case,Mil-Spec,0,1,1
+Lead Conduit,USP-S,Operation Wildfire Case,Mil-Spec,0,1,1
+Valence,FAMAS,Operation Wildfire Case,Restricted,0,0.8,1
+Triumvirate,Five-SeveN,Operation Wildfire Case,Restricted,0,0.61,1
+Royal Legion,Glock-18,Operation Wildfire Case,Restricted,0,1,1
+Praetorian,MAG-7,Operation Wildfire Case,Restricted,0,0.45,1
+Impire,MP7,Operation Wildfire Case,Restricted,0,0.4,1
+Elite Build,AWP,Operation Wildfire Case,Classified,0,1,1
+Kumicho Dragon,Desert Eagle,Operation Wildfire Case,Classified,0,0.76,1
+Hyper Beast,Nova,Operation Wildfire Case,Classified,0,0.6,1
+Fuel Injector,AK-47,Operation Wildfire Case,Covert,0,1,1
+The Battlestar,M4A4,Operation Wildfire Case,Covert,0,0.64,1
+Vanilla,Bowie Knife,Operation Wildfire Case,Covert,0,0,1
+Blue Steel,Bowie Knife,Operation Wildfire Case,Covert,0,1,1
+Boreal Forest,Bowie Knife,Operation Wildfire Case,Covert,0.06,0.8,1
+Case Hardened,Bowie Knife,Operation Wildfire Case,Covert,0,1,1
+Crimson Web,Bowie Knife,Operation Wildfire Case,Covert,0.06,0.8,1
+Fade,Bowie Knife,Operation Wildfire Case,Covert,0,0.08,1
+Forest DDPAT,Bowie Knife,Operation Wildfire Case,Covert,0.06,0.8,1
+Night,Bowie Knife,Operation Wildfire Case,Covert,0.06,0.8,1
+Safari Mesh,Bowie Knife,Operation Wildfire Case,Covert,0.06,0.8,1
+Scorched,Bowie Knife,Operation Wildfire Case,Covert,0.06,0.8,1
+Slaughter,Bowie Knife,Operation Wildfire Case,Covert,0.01,0.26,1
+Stained,Bowie Knife,Operation Wildfire Case,Covert,0,1,1
+Urban Masked,Bowie Knife,Operation Wildfire Case,Covert,0.06,0.8,1
+Fleet Flock,AUG,Chroma 3 Case,Classified,0,1,1
+Judgement of Anubis,PP-Bizon,Chroma 3 Case,Covert,0,0.5,1
+Red Astor,CZ75-Auto,Chroma 3 Case,Restricted,0,1,1
+Ventilators,Dual Berettas,Chroma 3 Case,Mil-Spec,0,0.45,1
+Orange Crash,G3SG1,Chroma 3 Case,Mil-Spec,0,0.52,1
+Firefight,Galil AR,Chroma 3 Case,Restricted,0,1,1
+Spectre,M249,Chroma 3 Case,Mil-Spec,0,0.5,1
+Chantico's Fire,M4A1-S,Chroma 3 Case,Covert,0,0.99,1
+Bioleak,MP9,Chroma 3 Case,Mil-Spec,0,0.5,1
+Oceanic,P2000,Chroma 3 Case,Mil-Spec,0,0.6,1
+Asiimov,P250,Chroma 3 Case,Classified,0.1,1,1
+Fubar,Sawed-Off,Chroma 3 Case,Mil-Spec,0.4,1,1
+Atlas,SG 553,Chroma 3 Case,Mil-Spec,0,0.81,1
+Ghost Crusader,SSG 08,Chroma 3 Case,Restricted,0,1,1
+Re-Entry,Tec-9,Chroma 3 Case,Restricted,0,0.43,1
+Primal Saber,UMP-45,Chroma 3 Case,Classified,0,0.77,1
+Black Tie,XM1014,Chroma 3 Case,Restricted,0,0.75,1
+Mecha Industries,M4A1-S,Gamma Case,Covert,0,0.8,1
+Wasteland Rebel,Glock-18,Gamma Case,Covert,0,0.54,1
+Bloodsport,SCAR-20,Gamma Case,Classified,0,0.45,1
+Imperial Dragon,P2000,Gamma Case,Classified,0,0.63,1
+Desolate Space,M4A4,Gamma Case,Classified,0,1,1
+Limelight,Sawed-Off,Gamma Case,Restricted,0,1,1
+Reboot,R8 Revolver,Gamma Case,Restricted,0,1,1
+Chopper,P90,Gamma Case,Restricted,0,0.6,1
+Phobos,AWP,Gamma Case,Restricted,0,0.4,1
+Aristocrat,AUG,Gamma Case,Restricted,0,0.66,1
+Ice Cap,Tec-9,Gamma Case,Mil-Spec,0,0.5,1
+Aerial,SG 553,Gamma Case,Mil-Spec,0,0.6,1
+Harvester,PP-Bizon,Gamma Case,Mil-Spec,0,1,1
+Iron Clad,P250,Gamma Case,Mil-Spec,0.05,0.8,1
+Exo,Nova,Gamma Case,Mil-Spec,0,0.5,1
+Carnivore,MAC-10,Gamma Case,Mil-Spec,0,1,1
+Violent Daimyo,Five-SeveN,Gamma Case,Mil-Spec,0,0.7,1
+Lore,Bayonet,Gamma 2 Case,Covert,0,0.65,1
+Lore,Flip Knife,Gamma 2 Case,Covert,0,0.65,1
+Lore,Gut Knife,Gamma 2 Case,Covert,0,0.65,1
+Lore,Karambit,Gamma 2 Case,Covert,0,0.65,1
+Lore,M9 Bayonet,Gamma 2 Case,Covert,0,0.65,1
+Black Laminate,Bayonet,Gamma 2 Case,Covert,0,1,1
+Black Laminate,Flip Knife,Gamma 2 Case,Covert,0,1,1
+Black Laminate,Gut Knife,Gamma 2 Case,Covert,0,1,1
+Black Laminate,Karambit,Gamma 2 Case,Covert,0,1,1
+Black Laminate,M9 Bayonet,Gamma 2 Case,Covert,0,1,1
+Gamma Doppler,Bayonet,Gamma 2 Case,Covert,0,0.08,1
+Gamma Doppler,Flip Knife,Gamma 2 Case,Covert,0,0.08,1
+Gamma Doppler,Gut Knife,Gamma 2 Case,Covert,0,0.08,1
+Gamma Doppler,Karambit,Gamma 2 Case,Covert,0,0.08,1
+Gamma Doppler,M9 Bayonet,Gamma 2 Case,Covert,0,0.08,1
+Autotronic,Bayonet,Gamma 2 Case,Covert,0,0.85,1
+Autotronic,Flip Knife,Gamma 2 Case,Covert,0,0.85,1
+Autotronic,Gut Knife,Gamma 2 Case,Covert,0,0.85,1
+Autotronic,Karambit,Gamma 2 Case,Covert,0,0.85,1
+Autotronic,M9 Bayonet,Gamma 2 Case,Covert,0,0.85,1
+Bright Water,Bayonet,Gamma 2 Case,Covert,0,0.5,1
+Bright Water,Flip Knife,Gamma 2 Case,Covert,0,0.5,1
+Bright Water,Gut Knife,Gamma 2 Case,Covert,0,0.5,1
+Bright Water,Karambit,Gamma 2 Case,Covert,0,0.5,1
+Bright Water,M9 Bayonet,Gamma 2 Case,Covert,0,0.5,1
+Freehand,Bayonet,Gamma 2 Case,Covert,0,0.48,1
+Freehand,Flip Knife,Gamma 2 Case,Covert,0,0.48,1
+Freehand,Gut Knife,Gamma 2 Case,Covert,0,0.48,1
+Freehand,Karambit,Gamma 2 Case,Covert,0,0.48,1
+Freehand,M9 Bayonet,Gamma 2 Case,Covert,0,0.48,1
+Neon Revolution,AK-47,Gamma 2 Case,Covert,0,0.8,1
+Syd Mead,AUG,Gamma 2 Case,Classified,0,0.8,1
+Imprint,CZ75-Auto,Gamma 2 Case,Mil-Spec,0,1,1
+Directive,Desert Eagle,Gamma 2 Case,Restricted,0.06,1,1
+Roll Cage,FAMAS,Gamma 2 Case,Covert,0,1,1
+Scumbria,Five-SeveN,Gamma 2 Case,Mil-Spec,0,1,1
+Ventilator,G3SG1,Gamma 2 Case,Mil-Spec,0,0.45,1
+Weasel,Glock-18,Gamma 2 Case,Restricted,0,1,1
+Petroglyph,MAG-7,Gamma 2 Case,Restricted,0,0.44,1
+Airlock,MP9,Gamma 2 Case,Classified,0,1,1
+Dazzle,Negev,Gamma 2 Case,Mil-Spec,0.1,0.65,1
+Grim,P90,Gamma 2 Case,Mil-Spec,0,0.8,1
+Powercore,SCAR-20,Gamma 2 Case,Restricted,0,1,1
+Triarch,SG 553,Gamma 2 Case,Restricted,0,1,1
+Fuel Injector,Tec-9,Gamma 2 Case,Classified,0,1,1
+Briefing,UMP-45,Gamma 2 Case,Mil-Spec,0,1,1
+Slipstream,XM1014,Gamma 2 Case,Mil-Spec,0,0.5,1
+Polymer,CZ75-Auto,Glove Case,Mil-Spec,0,0.5,1
+Ironwork,Glock-18,Glove Case,Mil-Spec,0,1,1
+Cirrus,MP7,Glove Case,Mil-Spec,0,0.75,1
+Black Sand,Galil AR,Glove Case,Mil-Spec,0,1,1
+Sand Scale,MP9,Glove Case,Mil-Spec,0,0.45,1
+Sonar,MAG-7,Glove Case,Mil-Spec,0,0.45,1
+Turf,P2000,Glove Case,Mil-Spec,0,1,1
+Royal Consorts,Dual Berettas,Glove Case,Restricted,0,1,1
+Stinger,G3SG1,Glove Case,Restricted,0,0.7,1
+Flashback,M4A1-S,Glove Case,Restricted,0,1,1
+Gila,Nova,Glove Case,Restricted,0,0.3,1
+Cyrex,USP-S,Glove Case,Restricted,0,0.55,1
+Mecha Industries,FAMAS,Glove Case,Classified,0,0.5,1
+Shallow Grave,P90,Glove Case,Classified,0,0.75,1
+Wasteland Princess,Sawed-Off,Glove Case,Classified,0,0.7,1
+Dragonfire,SSG 08,Glove Case,Covert,0,0.5,1
+Buzz Kill,M4A4,Glove Case,Covert,0,0.7,1
+Jungle Slipstream,PP-Bizon,Spectrum Case,Mil-Spec,0,0.5,1
+Blueprint,SCAR-20,Spectrum Case,Mil-Spec,0,0.75,1
+Oxide Blaze,Desert Eagle,Spectrum Case,Mil-Spec,0,0.5,1
+Capillary,Five-SeveN,Spectrum Case,Mil-Spec,0,0.7,1
+Akoben,MP7,Spectrum Case,Mil-Spec,0,0.7,1
+Ripple,P250,Spectrum Case,Mil-Spec,0,0.5,1
+Zander,Sawed-Off,Spectrum Case,Mil-Spec,0.05,1,1
+Crimson Tsunami,Galil AR,Spectrum Case,Restricted,0,0.55,1
+Emerald Poison Dart,M249,Spectrum Case,Restricted,0,0.45,1
+Last Dive,MAC-10,Spectrum Case,Restricted,0,0.52,1
+Scaffold,UMP-45,Spectrum Case,Restricted,0,1,1
+Seasons,XM1014,Spectrum Case,Restricted,0,0.5,1
+Fever Dream,AWP,Spectrum Case,Classified,0,0.55,1
+Xiangliu,CZ75-Auto,Spectrum Case,Classified,0,0.56,1
+Decimator,M4A1-S,Spectrum Case,Classified,0,0.85,1
+Bloodsport,AK-47,Spectrum Case,Covert,0,0.45,1
+Neo-Noir,USP-S,Spectrum Case,Covert,0,0.7,1
+Damascus Steel,Bowie Knife,Spectrum 2 Case,Covert,0,0.5,1
+Doppler,Bowie Knife,Spectrum 2 Case,Covert,0,0.08,1
+Marble Fade,Bowie Knife,Spectrum 2 Case,Covert,0,0.08,1
+Tiger Tooth,Bowie Knife,Spectrum 2 Case,Covert,0,0.08,1
+Rust Coat,Bowie Knife,Spectrum 2 Case,Covert,0.4,1,1
+Ultraviolet,Bowie Knife,Spectrum 2 Case,Covert,0.06,0.8,1
+Damascus Steel,Butterfly Knife,Spectrum 2 Case,Covert,0,0.5,1
+Doppler,Butterfly Knife,Spectrum 2 Case,Covert,0,0.08,1
+Marble Fade,Butterfly Knife,Spectrum 2 Case,Covert,0,0.08,1
+Tiger Tooth,Butterfly Knife,Spectrum 2 Case,Covert,0,0.08,1
+Rust Coat,Butterfly Knife,Spectrum 2 Case,Covert,0.4,1,1
+Ultraviolet,Butterfly Knife,Spectrum 2 Case,Covert,0.06,0.8,1
+Damascus Steel,Falchion Knife,Spectrum 2 Case,Covert,0,0.5,1
+Doppler,Falchion Knife,Spectrum 2 Case,Covert,0,0.08,1
+Marble Fade,Falchion Knife,Spectrum 2 Case,Covert,0,0.08,1
+Tiger Tooth,Falchion Knife,Spectrum 2 Case,Covert,0,0.08,1
+Rust Coat,Falchion Knife,Spectrum 2 Case,Covert,0.4,1,1
+Ultraviolet,Falchion Knife,Spectrum 2 Case,Covert,0.06,0.8,1
+Damascus Steel,Huntsman Knife,Spectrum 2 Case,Covert,0,0.5,1
+Doppler,Huntsman Knife,Spectrum 2 Case,Covert,0,0.08,1
+Marble Fade,Huntsman Knife,Spectrum 2 Case,Covert,0,0.08,1
+Tiger Tooth,Huntsman Knife,Spectrum 2 Case,Covert,0,0.08,1
+Rust Coat,Huntsman Knife,Spectrum 2 Case,Covert,0.4,1,1
+Ultraviolet,Huntsman Knife,Spectrum 2 Case,Covert,0.06,0.8,1
+Damascus Steel,Shadow Daggers,Spectrum 2 Case,Covert,0,0.5,1
+Doppler,Shadow Daggers,Spectrum 2 Case,Covert,0,0.08,1
+Marble Fade,Shadow Daggers,Spectrum 2 Case,Covert,0,0.08,1
+Tiger Tooth,Shadow Daggers,Spectrum 2 Case,Covert,0,0.08,1
+Rust Coat,Shadow Daggers,Spectrum 2 Case,Covert,0.4,1,1
+Ultraviolet,Shadow Daggers,Spectrum 2 Case,Covert,0.06,0.8,1
+Blueprint,USP-S,Operation Hydra Case,Mil-Spec,0,0.86,1
+Macabre,FAMAS,Operation Hydra Case,Mil-Spec,0,0.6,1
+Briefing,M4A1-S,Operation Hydra Case,Mil-Spec,0,0.8,1
+Aloha,MAC-10,Operation Hydra Case,Mil-Spec,0,0.65,1
+Hard Water,MAG-7,Operation Hydra Case,Mil-Spec,0,0.45,1
+Cut Out,Tec-9,Operation Hydra Case,Mil-Spec,0,1,1
+Metal Flowers,UMP-45,Operation Hydra Case,Mil-Spec,0,0.7,1
+Orbit Mk01,AK-47,Operation Hydra Case,Restricted,0,0.55,1
+Woodsman,P2000,Operation Hydra Case,Restricted,0,0.8,1
+Red Rock,P250,Operation Hydra Case,Restricted,0,1,1
+Death Grip,P90,Operation Hydra Case,Restricted,0,1,1
+Death's Head,SSG 08,Operation Hydra Case,Restricted,0,0.51,1
+Cobra Strike,Dual Berettas,Operation Hydra Case,Classified,0,0.6,1
+Sugar Rush,Galil AR,Operation Hydra Case,Classified,0,0.55,1
+Hellfire,M4A4,Operation Hydra Case,Classified,0,0.5,1
+Hyper Beast,Five-SeveN,Operation Hydra Case,Covert,0,1,1
+Oni Taiji,AWP,Operation Hydra Case,Covert,0,0.5,1
+Morris,Sawed-Off,Spectrum 2 Case,Mil-Spec,0,1,1
+Triqua,AUG,Spectrum 2 Case,Mil-Spec,0,1,1
+Hunter,G3SG1,Spectrum 2 Case,Mil-Spec,0,1,1
+Off World,Glock-18,Spectrum 2 Case,Mil-Spec,0,1,1
+Oceanic,MAC-10,Spectrum 2 Case,Mil-Spec,0,0.6,1
+Cracked Opal,Tec-9,Spectrum 2 Case,Mil-Spec,0,1,1
+Jungle Slipstream,SCAR-20,Spectrum 2 Case,Mil-Spec,0,0.5,1
+Goo,MP9,Spectrum 2 Case,Restricted,0,0.6,1
+Phantom,SG 553,Spectrum 2 Case,Restricted,0,0.6,1
+Tacticat,CZ75-Auto,Spectrum 2 Case,Restricted,0,0.7,1
+Exposure,UMP-45,Spectrum 2 Case,Restricted,0,0.55,1
+Ziggy,XM1014,Spectrum 2 Case,Restricted,0,0.72,1
+High Roller,PP-Bizon,Spectrum 2 Case,Classified,0,1,1
+Leaded Glass,M4A1-S,Spectrum 2 Case,Classified,0,0.7,1
+Llama Cannon,R8 Revolver,Spectrum 2 Case,Classified,0.03,0.7,1
+The Empress,AK-47,Spectrum 2 Case,Covert,0,1,1
+See Ya Later,P250,Spectrum 2 Case,Covert,0,0.7,1
+Night Riot,PP-Bizon,Clutch Case,Mil-Spec,0,0.8,1
+Flame Test,Five-SeveN,Clutch Case,Mil-Spec,0,0.65,1
+Black Sand,MP9,Clutch Case,Mil-Spec,0,1,1
+Urban Hazard,P2000,Clutch Case,Mil-Spec,0,1,1
+Grip,R8 Revolver,Clutch Case,Mil-Spec,0,1,1
+Aloha,SG 553,Clutch Case,Mil-Spec,0,0.55,1
+Oxide Blaze,XM1014,Clutch Case,Mil-Spec,0,0.7,1
+Moonrise,Glock-18,Clutch Case,Restricted,0,0.65,1
+Lionfish,Negev,Clutch Case,Restricted,0,0.55,1
+Wild Six,Nova,Clutch Case,Restricted,0,0.8,1
+SWAG-7,MAG-7,Clutch Case,Restricted,0,0.92,1
+Arctic Wolf,UMP-45,Clutch Case,Restricted,0,0.8,1
+Stymphalian,AUG,Clutch Case,Classified,0,0.63,1
+Mortis,AWP,Clutch Case,Classified,0,0.64,1
+Cortex,USP-S,Clutch Case,Classified,0,1,1
+Neo-Noir,M4A4,Clutch Case,Covert,0,0.9,1
+Bloodsport,MP7,Clutch Case,Covert,0,0.65,1
+Amber Slipstream,AUG,Horizon Case,Mil-Spec,0,0.55,1
+Shred,Dual Berettas,Horizon Case,Mil-Spec,0,0.5,1
+Warhawk,Glock-18,Horizon Case,Mil-Spec,0,1,1
+Capillary,MP9,Horizon Case,Mil-Spec,0,0.7,1
+Traction,P90,Horizon Case,Mil-Spec,0,1,1
+Survivalist,R8 Revolver,Horizon Case,Mil-Spec,0,0.7,1
+Snek-9,Tec-9,Horizon Case,Mil-Spec,0,1,1
+Eco,CZ75-Auto,Horizon Case,Restricted,0,1,1
+High Seas,G3SG1,Horizon Case,Restricted,0,0.7,1
+Toy Soldier,Nova,Horizon Case,Restricted,0,1,1
+PAW,AWP,Horizon Case,Restricted,0,0.5,1
+Powercore,MP7,Horizon Case,Restricted,0,0.8,1
+Nightmare,M4A1-S,Horizon Case,Classified,0,1,1
+Devourer,Sawed-Off,Horizon Case,Classified,0,0.8,1
+Eye of Athena,FAMAS,Horizon Case,Classified,0,0.7,1
+Neon Rider,AK-47,Horizon Case,Covert,0,0.8,1
+Code Red,Desert Eagle,Horizon Case,Covert,0,1,1
+Vanilla,Stiletto Knife,Danger Zone Case,Covert,0,0,1
+Blue Steel,Stiletto Knife,Danger Zone Case,Covert,0,1,1
+Boreal Forest,Stiletto Knife,Danger Zone Case,Covert,0.06,0.8,1
+Case Hardened,Stiletto Knife,Danger Zone Case,Covert,0,1,1
+Crimson Web,Stiletto Knife,Danger Zone Case,Covert,0.06,0.8,1
+Fade,Stiletto Knife,Danger Zone Case,Covert,0,0.08,1
+Forest DDPAT,Stiletto Knife,Danger Zone Case,Covert,0.06,0.8,1
+Night Stripe,Stiletto Knife,Danger Zone Case,Covert,0.06,0.8,1
+Safari Mesh,Stiletto Knife,Danger Zone Case,Covert,0.06,0.8,1
+Scorched,Stiletto Knife,Danger Zone Case,Covert,0.06,0.8,1
+Slaughter,Stiletto Knife,Danger Zone Case,Covert,0.01,0.26,1
+Stained,Stiletto Knife,Danger Zone Case,Covert,0,1,1
+Urban Masked,Stiletto Knife,Danger Zone Case,Covert,0.06,0.8,1
+Vanilla,Ursus Knife,Danger Zone Case,Covert,0,0,1
+Blue Steel,Ursus Knife,Danger Zone Case,Covert,0,1,1
+Boreal Forest,Ursus Knife,Danger Zone Case,Covert,0.06,0.8,1
+Case Hardened,Ursus Knife,Danger Zone Case,Covert,0,1,1
+Crimson Web,Ursus Knife,Danger Zone Case,Covert,0.06,0.8,1
+Fade,Ursus Knife,Danger Zone Case,Covert,0,0.08,1
+Forest DDPAT,Ursus Knife,Danger Zone Case,Covert,0.06,0.8,1
+Night Stripe,Ursus Knife,Danger Zone Case,Covert,0.06,0.8,1
+Safari Mesh,Ursus Knife,Danger Zone Case,Covert,0.06,0.8,1
+Scorched,Ursus Knife,Danger Zone Case,Covert,0.06,0.8,1
+Slaughter,Ursus Knife,Danger Zone Case,Covert,0.01,0.26,1
+Stained,Ursus Knife,Danger Zone Case,Covert,0,1,1
+Urban Masked,Ursus Knife,Danger Zone Case,Covert,0.06,0.8,1
+Vanilla,Navaja Knife,Danger Zone Case,Covert,0,0,1
+Blue Steel,Navaja Knife,Danger Zone Case,Covert,0,1,1
+Boreal Forest,Navaja Knife,Danger Zone Case,Covert,0.06,0.8,1
+Case Hardened,Navaja Knife,Danger Zone Case,Covert,0,1,1
+Crimson Web,Navaja Knife,Danger Zone Case,Covert,0.06,0.8,1
+Fade,Navaja Knife,Danger Zone Case,Covert,0,0.08,1
+Forest DDPAT,Navaja Knife,Danger Zone Case,Covert,0.06,0.8,1
+Night Stripe,Navaja Knife,Danger Zone Case,Covert,0.06,0.8,1
+Safari Mesh,Navaja Knife,Danger Zone Case,Covert,0.06,0.8,1
+Scorched,Navaja Knife,Danger Zone Case,Covert,0.06,0.8,1
+Slaughter,Navaja Knife,Danger Zone Case,Covert,0.01,0.26,1
+Stained,Navaja Knife,Danger Zone Case,Covert,0,1,1
+Urban Masked,Navaja Knife,Danger Zone Case,Covert,0.06,0.8,1
+Vanilla,Talon Knife,Danger Zone Case,Covert,0,0,1
+Blue Steel,Talon Knife,Danger Zone Case,Covert,0,1,1
+Boreal Forest,Talon Knife,Danger Zone Case,Covert,0.06,0.8,1
+Case Hardened,Talon Knife,Danger Zone Case,Covert,0,1,1
+Crimson Web,Talon Knife,Danger Zone Case,Covert,0.06,0.8,1
+Fade,Talon Knife,Danger Zone Case,Covert,0,0.08,1
+Forest DDPAT,Talon Knife,Danger Zone Case,Covert,0.06,0.8,1
+Night Stripe,Talon Knife,Danger Zone Case,Covert,0.06,0.8,1
+Safari Mesh,Talon Knife,Danger Zone Case,Covert,0.06,0.8,1
+Scorched,Talon Knife,Danger Zone Case,Covert,0.06,0.8,1
+Slaughter,Talon Knife,Danger Zone Case,Covert,0.01,0.26,1
+Stained,Talon Knife,Danger Zone Case,Covert,0,1,1
+Urban Masked,Talon Knife,Danger Zone Case,Covert,0.06,0.8,1
+Facility Sketch,PP-Bizon,The 2018 Nuke Collection,Consumer,0,0.5,0
+Facility Draft,P250,The 2018 Nuke Collection,Consumer,0,0.5,0
+Facility Dark,UMP-45,The 2018 Nuke Collection,Consumer,0,0.5,0
+Coolant,Five-SeveN,The 2018 Nuke Collection,Consumer,0,0.5,0
+Mandrel,Nova,The 2018 Nuke Collection,Consumer,0,0.5,0
+Mainframe,M4A4,The 2018 Nuke Collection,Industrial,0,0.5,0
+Motherboard,MP7,The 2018 Nuke Collection,Industrial,0,0.5,0
+Bulkhead,Negev,The 2018 Nuke Collection,Industrial,0,0.5,0
+Cold Fusion,Galil AR,The 2018 Nuke Collection,Industrial,0,0.83,0
+Facility Negative,P90,The 2018 Nuke Collection,Mil-Spec,0,0.5,0
+Co-Processor,MP5-SD,The 2018 Nuke Collection,Mil-Spec,0,0.5,0
+Exchanger,P250,The 2018 Nuke Collection,Mil-Spec,0,0.5,0
+Acheron,AWP,The 2018 Nuke Collection,Mil-Spec,0,0.83,0
+Random Access,AUG,The 2018 Nuke Collection,Restricted,0,0.5,0
+Core Breach,MAG-7,The 2018 Nuke Collection,Restricted,0,1,0
+Nuclear Garden,Glock-18,The 2018 Nuke Collection,Restricted,0,0.7,0
+Remote Control,Tec-9,The 2018 Nuke Collection,Classified,0,1,0
+Control Panel,M4A1-S,The 2018 Nuke Collection,Classified,0,1,0
+Mudder,UMP-45,The 2018 Inferno Collection,Consumer,0.06,0.8,0
+Dirt Drop,MP5-SD,The 2018 Inferno Collection,Consumer,0.06,0.8,0
+Slide,MP9,The 2018 Inferno Collection,Consumer,0.06,0.8,0
+Sweeper,AUG,The 2018 Inferno Collection,Consumer,0,0.6,0
+Rust Coat,MAG-7,The 2018 Inferno Collection,Consumer,0,1,0
+Candy Apple,PP-Bizon,The 2018 Inferno Collection,Industrial,0,0.3,0
+Calf Skin,MAC-10,The 2018 Inferno Collection,Industrial,0,1,0
+Nitro,R8 Revolver,The 2018 Inferno Collection,Industrial,0.06,0.8,0
+High Beam,Glock-18,The 2018 Inferno Collection,Industrial,0,0.08,0
+Hand Brake,SSG 08,The 2018 Inferno Collection,Mil-Spec,0,1,0
+Converter,M4A4,The 2018 Inferno Collection,Mil-Spec,0,0.4,0
+Check Engine,USP-S,The 2018 Inferno Collection,Mil-Spec,0,0.6,0
+Brake Light,Sawed-Off,The 2018 Inferno Collection,Mil-Spec,0,0.08,0
+Vino Primo,P250,The 2018 Inferno Collection,Restricted,0,1,0
+Fade,MP7,The 2018 Inferno Collection,Restricted,0,0.25,0
+Safety Net,AK-47,The 2018 Inferno Collection,Restricted,0,0.6,0
+Twin Turbo,Dual Berettas,The 2018 Inferno Collection,Classified,0,1,0
+Integrale,SG 553,The 2018 Inferno Collection,Classified,0,1,0
+Lab Rats,MP5-SD,The Blacksite Collection,Restricted,0,0.35,0
+Modest Threat,MP9,Danger Zone Case,Mil-Spec,0,0.75,1
+Oxide Blaze,Glock-18,Danger Zone Case,Mil-Spec,0,0.85,1
+Wood Fired,Nova,Danger Zone Case,Mil-Spec,0,0.75,1
+Magnesium,M4A4,Danger Zone Case,Mil-Spec,0,1,1
+Black Sand,Sawed-Off,Danger Zone Case,Mil-Spec,0,0.9,1
+Danger Close,SG 553,Danger Zone Case,Mil-Spec,0.02,0.8,1
+Fubar,Tec-9,Danger Zone Case,Mil-Spec,0.14,1,1
+Scavenger,G3SG1,Danger Zone Case,Restricted,0,0.65,1
+Signal,Galil AR,Danger Zone Case,Restricted,0,0.5,1
+Pipe Down,MAC-10,Danger Zone Case,Restricted,0,0.9,1
+Nevermore,P250,Danger Zone Case,Restricted,0,0.4,1
+Flashback,USP-S,Danger Zone Case,Restricted,0,0.5,1
+Momentum,UMP-45,Danger Zone Case,Classified,0,0.5,1
+Mecha Industries,Desert Eagle,Danger Zone Case,Classified,0,0.6,1
+Phosphor,MP5-SD,Danger Zone Case,Classified,0,0.8,1
+Asiimov,AK-47,Danger Zone Case,Covert,0.05,0.7,1
+Neo-Noir,AWP,Danger Zone Case,Covert,0,0.5,1
+Crypsis,FAMAS,Prisma Case,Mil-Spec,0,0.55,1
+Uncharted,AK-47,Prisma Case,Mil-Spec,0,0.75,1
+Whitefish,MAC-10,Prisma Case,Mil-Spec,0,1,1
+Akoben,Galil AR,Prisma Case,Mil-Spec,0,0.75,1
+Mischief,MP7,Prisma Case,Mil-Spec,0.1,1,1
+Verdigris,P250,Prisma Case,Mil-Spec,0,0.7,1
+Off World,P90,Prisma Case,Mil-Spec,0,0.75,1
+Atheris,AWP,Prisma Case,Restricted,0,1,1
+Bamboozle,Tec-9,Prisma Case,Restricted,0,0.8,1
+Light Rail,Desert Eagle,Prisma Case,Restricted,0,0.9,1
+Gauss,MP5-SD,Prisma Case,Restricted,0,1,1
+Moonrise,UMP-45,Prisma Case,Restricted,0,0.4,1
+Skull Crusher,R8 Revolver,Prisma Case,Classified,0.25,0.8,1
+Momentum,AUG,Prisma Case,Classified,0.05,1,1
+Incinegator,XM1014,Prisma Case,Classified,0.14,0.65,1
+Angry Mob,Five-SeveN,Prisma Case,Covert,0,0.7,1
+The Emperor,M4A4,Prisma Case,Covert,0,0.8,1
+Damascus Steel,Navaja Knife,Prisma Case,Covert,0,0.5,1
+Doppler,Navaja Knife,Prisma Case,Covert,0,0.08,1
+Marble Fade,Navaja Knife,Prisma Case,Covert,0,0.08,1
+Rust Coat,Navaja Knife,Prisma Case,Covert,0.4,1,1
+Tiger Tooth,Navaja Knife,Prisma Case,Covert,0,0.08,1
+Ultraviolet,Navaja Knife,Prisma Case,Covert,0.06,0.8,1
+Damascus Steel,Stiletto Knife,Prisma Case,Covert,0,0.5,1
+Doppler,Stiletto Knife,Prisma Case,Covert,0,0.08,1
+Marble Fade,Stiletto Knife,Prisma Case,Covert,0,0.08,1
+Rust Coat,Stiletto Knife,Prisma Case,Covert,0.4,1,1
+Tiger Tooth,Stiletto Knife,Prisma Case,Covert,0,0.08,1
+Ultraviolet,Stiletto Knife,Prisma Case,Covert,0.06,0.8,1
+Damascus Steel,Talon Knife,Prisma Case,Covert,0,0.5,1
+Doppler,Talon Knife,Prisma Case,Covert,0,0.08,1
+Marble Fade,Talon Knife,Prisma Case,Covert,0,0.08,1
+Rust Coat,Talon Knife,Prisma Case,Covert,0.4,1,1
+Tiger Tooth,Talon Knife,Prisma Case,Covert,0,0.08,1
+Ultraviolet,Talon Knife,Prisma Case,Covert,0.06,0.8,1
+Damascus Steel,Ursus Knife,Prisma Case,Covert,0,0.5,1
+Doppler,Ursus Knife,Prisma Case,Covert,0,0.08,1
+Marble Fade,Ursus Knife,Prisma Case,Covert,0,0.08,1
+Rust Coat,Ursus Knife,Prisma Case,Covert,0.4,1,1
+Tiger Tooth,Ursus Knife,Prisma Case,Covert,0,0.08,1
+Ultraviolet,Ursus Knife,Prisma Case,Covert,0.06,0.8,1
+X-Ray,P250,X-Ray P250 Package,Restricted,0,0.3,1
+Elite 1.6,Dual Berettas,CS20 Case,Mil-Spec,0,0.7,1
+Flash Out,Tec-9,CS20 Case,Mil-Spec,0,0.7,1
+Classic Crate,MAC-10,CS20 Case,Mil-Spec,0,1,1
+Popdog,MAG-7,CS20 Case,Mil-Spec,0,0.8,1
+Assault,SCAR-20,CS20 Case,Mil-Spec,0,0.62,1
+Decommissioned,FAMAS,CS20 Case,Mil-Spec,0,1,1
+Sacrifice,Glock-18,CS20 Case,Mil-Spec,0,1,1
+Aztec,M249,CS20 Case,Restricted,0,0.75,1
+Agent,MP5-SD,CS20 Case,Restricted,0,1,1
+Buddy,Five-SeveN,CS20 Case,Restricted,0,0.55,1
+Inferno,P250,CS20 Case,Restricted,0,0.68,1
+Plastique,UMP-45,CS20 Case,Restricted,0,0.8,1
+Hydra,MP9,CS20 Case,Classified,0,1,1
+Nostalgia,P90,CS20 Case,Classified,0,0.57,1
+Death by Puppy,AUG,CS20 Case,Classified,0,0.4,1
+Wildfire,AWP,CS20 Case,Covert,0.01,0.7,1
+Commemoration,FAMAS,CS20 Case,Covert,0,0.5,1
+Vanilla,Classic Knife,CS20 Case,Covert,0,0,1
+Fade,Classic Knife,CS20 Case,Covert,0,0.08,1
+Slaughter,Classic Knife,CS20 Case,Covert,0.01,0.26,1
+Blue Steel,Classic Knife,CS20 Case,Covert,0,1,1
+Stained,Classic Knife,CS20 Case,Covert,0,1,1
+Case Hardened,Classic Knife,CS20 Case,Covert,0,1,1
+Forest DDPAT,Classic Knife,CS20 Case,Covert,0.06,0.8,1
+Boreal Forest,Classic Knife,CS20 Case,Covert,0.06,0.8,1
+Crimson Web,Classic Knife,CS20 Case,Covert,0.06,0.8,1
+Scorched,Classic Knife,CS20 Case,Covert,0.06,0.8,1
+Safari Mesh,Classic Knife,CS20 Case,Covert,0.06,0.8,1
+Night Stripe,Classic Knife,CS20 Case,Covert,0.06,0.8,1
+Urban Masked,Classic Knife,CS20 Case,Covert,0.06,0.8,1
+Bamboo Garden,MP5-SD,The St. Marc Collection,Consumer,0,0.55,0
+Surfwood,MAC-10,The St. Marc Collection,Consumer,0,0.5,0
+Seabird,PP-Bizon,The St. Marc Collection,Consumer,0,0.5,0
+Jungle Thicket,Sawed-Off,The St. Marc Collection,Consumer,0,0.5,0
+Jungle,M249,The St. Marc Collection,Consumer,0.06,0.8,0
+Sunset Lily,P90,The St. Marc Collection,Industrial,0,0.5,0
+Dark Blossom,M4A4,The St. Marc Collection,Industrial,0,0.5,0
+Banana Leaf,XM1014,The St. Marc Collection,Industrial,0,0.6,0
+Rust Leaf,Tec-9,The St. Marc Collection,Industrial,0,0.5,0
+Day Lily,UMP-45,The St. Marc Collection,Mil-Spec,0,0.55,0
+Crimson Blossom,Five-SeveN,The St. Marc Collection,Mil-Spec,0,0.5,0
+Teal Blossom,MP7,The St. Marc Collection,Mil-Spec,0,0.5,0
+Sundown,FAMAS,The St. Marc Collection,Mil-Spec,0,0.6,0
+Sea Calico,SSG 08,The St. Marc Collection,Restricted,0,0.5,0
+Synth Leaf,Glock-18,The St. Marc Collection,Restricted,0,0.7,0
+Midnight Lily,AUG,The St. Marc Collection,Restricted,0,0.5,0
+Wild Lily,MP9,The St. Marc Collection,Classified,0,0.7,0
+Wild Lotus,AK-47,The St. Marc Collection,Covert,0,1,0
+Navy Murano,AUG,The Canals Collection,Consumer,0,1,0
+Stone Mosaico,SCAR-20,The Canals Collection,Consumer,0.06,0.5,0
+Canal Spray,R8 Revolver,The Canals Collection,Consumer,0.06,0.6,0
+Boroque Sand,Negev,The Canals Collection,Consumer,0,1,0
+Indigo,CZ75-Auto,The Canals Collection,Consumer,0.06,0.8,0
+Baroque Purple,AK-47,The Canals Collection,Industrial,0,1,0
+Candy Apple,SG 553,The Canals Collection,Industrial,0,0.7,0
+Dark Filigree,P250,The Canals Collection,Industrial,0,0.5,0
+Orange Murano,Tec-9,The Canals Collection,Industrial,0,1,0
+Baroque Red,P90,The Canals Collection,Mil-Spec,0,0.5,0
+Violet Murano,G3SG1,The Canals Collection,Mil-Spec,0,0.5,0
+Emerald,Dual Berettas,The Canals Collection,Mil-Spec,0,0.08,0
+Orange Filigree,SSG 08,The Canals Collection,Mil-Spec,0,0.5,0
+Stained Glass,MP9,The Canals Collection,Restricted,0,0.5,0
+Red Filigree,MAC-10,The Canals Collection,Restricted,0,0.5,0
+Baroque Orange,Nova,The Canals Collection,Restricted,0,0.5,0
+Cinquedea,MAG-7,The Canals Collection,Classified,0,1,0
+The Prince,AWP,The Canals Collection,Covert,0,0.6,0
+Barricade,SG 553,The Norse Collection,Consumer,0,0.65,0
+Tornado,Galil AR,The Norse Collection,Consumer,0.06,0.8,0
+Scorched,MP7,The Norse Collection,Consumer,0.06,0.8,0
+Red Stone,SSG 08,The Norse Collection,Consumer,0.06,0.5,0
+Night Borre,FAMAS,The Norse Collection,Consumer,0,0.55,0
+Moss Quartz,M4A1-S,The Norse Collection,Industrial,0,0.5,0
+Pathfinder,USP-S,The Norse Collection,Industrial,0,0.35,0
+Chainmail,MAG-7,The Norse Collection,Industrial,0,0.22,0
+Pyre,Dual Berettas,The Norse Collection,Industrial,0.06,0.55,0
+Brass,SCAR-20,The Norse Collection,Mil-Spec,0,1,0
+Emerald Quartz,CZ75-Auto,The Norse Collection,Mil-Spec,0,0.7,0
+Frost Borre,XM1014,The Norse Collection,Mil-Spec,0,0.5,0
+Copper Borre,MAC-10,The Norse Collection,Mil-Spec,0,0.5,0
+Flame Jörmungandr,AUG,The Norse Collection,Restricted,0,0.5,0
+Emerald Jörmungandr,Desert Eagle,The Norse Collection,Restricted,0,0.5,0
+Astral Jörmungandr,P90,The Norse Collection,Restricted,0,0.5,0
+Mjölnir,Negev,The Norse Collection,Classified,0,0.6,0
+Gungnir,AWP,The Norse Collection,Covert,0,0.6,0
+Acid Wash,MP5-SD,Shattered Web Case,Mil-Spec,0,0.68,1
+Plume,Nova,Shattered Web Case,Mil-Spec,0,0.8,1
+Black Sand,G3SG1,Shattered Web Case,Mil-Spec,0,0.8,1
+Memento,R8 Revolver,Shattered Web Case,Mil-Spec,0,0.8,1
+Balance,Dual Berettas,Shattered Web Case,Mil-Spec,0,1,1
+Torn,SCAR-20,Shattered Web Case,Mil-Spec,0,0.45,1
+Warbird,M249,Shattered Web Case,Mil-Spec,0.05,0.65,1
+Embargo,PP-Bizon,Shattered Web Case,Restricted,0,1,1
+Rat Rod,AK-47,Shattered Web Case,Restricted,0,1,1
+Arctic Wolf,AUG,Shattered Web Case,Restricted,0,0.7,1
+Neon Ply,MP7,Shattered Web Case,Restricted,0,1,1
+Obsidian,P2000,Shattered Web Case,Restricted,0,1,1
+Decimator,Tec-9,Shattered Web Case,Classified,0,0.75,1
+Colony IV,SG 553,Shattered Web Case,Classified,0,1,1
+Bloodshot,SSG 08,Shattered Web Case,Classified,0.14,0.6,1
+Containment Breach,AWP,Shattered Web Case,Covert,0,1,1
+Stalker,MAC-10,Shattered Web Case,Covert,0,1,1
+Vanilla,Nomad Knife,Fracture Case,Covert,0,0,1
+Fade,Nomad Knife,Fracture Case,Covert,0,0.08,1
+Slaughter,Nomad Knife,Fracture Case,Covert,0.01,0.26,1
+Blue Steel,Nomad Knife,Fracture Case,Covert,0,1,1
+Stained,Nomad Knife,Fracture Case,Covert,0,1,1
+Case Hardened,Nomad Knife,Fracture Case,Covert,0,1,1
+Forest DDPAT,Nomad Knife,Fracture Case,Covert,0.06,0.8,1
+Boreal Forest,Nomad Knife,Fracture Case,Covert,0.06,0.8,1
+Crimson Web,Nomad Knife,Fracture Case,Covert,0.06,0.8,1
+Scorched,Nomad Knife,Fracture Case,Covert,0.06,0.8,1
+Safari Mesh,Nomad Knife,Fracture Case,Covert,0.06,0.8,1
+Night Stripe,Nomad Knife,Fracture Case,Covert,0.06,0.8,1
+Urban Masked,Nomad Knife,Fracture Case,Covert,0.06,0.8,1
+Vanilla,Skeleton Knife,Fracture Case,Covert,0,0,1
+Fade,Skeleton Knife,Fracture Case,Covert,0,0.08,1
+Slaughter,Skeleton Knife,Fracture Case,Covert,0.01,0.26,1
+Blue Steel,Skeleton Knife,Fracture Case,Covert,0,1,1
+Stained,Skeleton Knife,Fracture Case,Covert,0,1,1
+Case Hardened,Skeleton Knife,Fracture Case,Covert,0,1,1
+Forest DDPAT,Skeleton Knife,Fracture Case,Covert,0.06,0.8,1
+Boreal Forest,Skeleton Knife,Fracture Case,Covert,0.06,0.8,1
+Crimson Web,Skeleton Knife,Fracture Case,Covert,0.06,0.8,1
+Scorched,Skeleton Knife,Fracture Case,Covert,0.06,0.8,1
+Safari Mesh,Skeleton Knife,Fracture Case,Covert,0.06,0.8,1
+Night Stripe,Skeleton Knife,Fracture Case,Covert,0.06,0.8,1
+Urban Masked,Skeleton Knife,Fracture Case,Covert,0.06,0.8,1
+Vanilla,Survival Knife,Fracture Case,Covert,0,0,1
+Fade,Survival Knife,Fracture Case,Covert,0,0.08,1
+Slaughter,Survival Knife,Fracture Case,Covert,0.01,0.26,1
+Blue Steel,Survival Knife,Fracture Case,Covert,0,1,1
+Stained,Survival Knife,Fracture Case,Covert,0,1,1
+Case Hardened,Survival Knife,Fracture Case,Covert,0,1,1
+Forest DDPAT,Survival Knife,Fracture Case,Covert,0.06,0.8,1
+Boreal Forest,Survival Knife,Fracture Case,Covert,0.06,0.8,1
+Crimson Web,Survival Knife,Fracture Case,Covert,0.06,0.8,1
+Scorched,Survival Knife,Fracture Case,Covert,0.06,0.8,1
+Safari Mesh,Survival Knife,Fracture Case,Covert,0.06,0.8,1
+Night Stripe,Survival Knife,Fracture Case,Covert,0.06,0.8,1
+Urban Masked,Survival Knife,Fracture Case,Covert,0.06,0.8,1
+Vanilla,Paracord Knife,Fracture Case,Covert,0,0,1
+Fade,Paracord Knife,Fracture Case,Covert,0,0.08,1
+Slaughter,Paracord Knife,Fracture Case,Covert,0.01,0.26,1
+Blue Steel,Paracord Knife,Fracture Case,Covert,0,1,1
+Stained,Paracord Knife,Fracture Case,Covert,0,1,1
+Case Hardened,Paracord Knife,Fracture Case,Covert,0,1,1
+Forest DDPAT,Paracord Knife,Fracture Case,Covert,0.06,0.8,1
+Boreal Forest,Paracord Knife,Fracture Case,Covert,0.06,0.8,1
+Crimson Web,Paracord Knife,Fracture Case,Covert,0.06,0.8,1
+Scorched,Paracord Knife,Fracture Case,Covert,0.06,0.8,1
+Safari Mesh,Paracord Knife,Fracture Case,Covert,0.06,0.8,1
+Night Stripe,Paracord Knife,Fracture Case,Covert,0.06,0.8,1
+Urban Masked,Paracord Knife,Fracture Case,Covert,0.06,0.8,1
+Tom Cat,AUG,Prisma 2 Case,Mil-Spec,0,0.8,1
+Capillary,AWP,Prisma 2 Case,Mil-Spec,0.05,0.7,1
+Distressed,CZ75-Auto,Prisma 2 Case,Mil-Spec,0,1,1
+Blue Ply,Desert Eagle,Prisma 2 Case,Mil-Spec,0,1,1
+Desert Strike,MP5-SD,Prisma 2 Case,Mil-Spec,0,1,1
+Prototype,Negev,Prisma 2 Case,Mil-Spec,0,0.7,1
+Bone Forged,R8 Revolver,Prisma 2 Case,Mil-Spec,0,0.6,1
+Acid Etched,P2000,Prisma 2 Case,Restricted,0,1,1
+Apocalypto,Sawed-Off,Prisma 2 Case,Restricted,0,1,1
+Enforcer,SCAR-20,Prisma 2 Case,Restricted,0,1,1
+Darkwing,SG 553,Prisma 2 Case,Restricted,0,1,1
+Fever Dream,SSG 08,Prisma 2 Case,Restricted,0,0.72,1
+Phantom Disruptor,AK-47,Prisma 2 Case,Classified,0,0.65,1
+Disco Tech,MAC-10,Prisma 2 Case,Classified,0,1,1
+Justice,MAG-7,Prisma 2 Case,Classified,0,1,1
+Player Two,M4A1-S,Prisma 2 Case,Covert,0,0.84,1
+Bullet Queen,Glock-18,Prisma 2 Case,Covert,0,1,1
+Ultralight,Negev,Fracture Case,Mil-Spec,0,0.79,1
+Gnarled,P2000,Fracture Case,Mil-Spec,0,1,1
+Ol' Rusty,SG 553,Fracture Case,Mil-Spec,0,0.7,1
+Mainframe 001,SSG 08,Fracture Case,Mil-Spec,0,1,1
+Cassette,P250,Fracture Case,Mil-Spec,0,0.6,1
+Freight,P90,Fracture Case,Mil-Spec,0,1,1
+Runic,PP-Bizon,Fracture Case,Mil-Spec,0,1,1
+Monster Call,MAG-7,Fracture Case,Restricted,0,1,1
+Brother,Tec-9,Fracture Case,Restricted,0,1,1
+Allure,MAC-10,Fracture Case,Restricted,0,1,1
+Connexion,Galil AR,Fracture Case,Restricted,0,0.8,1
+Kitbash,MP5-SD,Fracture Case,Restricted,0,0.8,1
+Tooth Fairy,M4A4,Fracture Case,Classified,0,0.73,1
+Vogue,Glock-18,Fracture Case,Classified,0,0.75,1
+Entombed,XM1014,Fracture Case,Classified,0,0.5,1
+Printstream,Desert Eagle,Fracture Case,Covert,0,0.8,1
+Legion of Anubis,AK-47,Fracture Case,Covert,0,0.7,1
+Vendetta,CZ75-Auto,Operation Broken Fang Case,Mil-Spec,0,1,1
+Cocoa Rampage,P90,Operation Broken Fang Case,Mil-Spec,0,0.6,1
+Digital Mesh,G3SG1,Operation Broken Fang Case,Mil-Spec,0,0.8,1
+Vandal,Galil AR,Operation Broken Fang Case,Mil-Spec,0,1,1
+Contaminant,P250,Operation Broken Fang Case,Mil-Spec,0,0.7,1
+Deep Relief,M249,Operation Broken Fang Case,Mil-Spec,0,1,1
+Condition Zero,MP5-SD,Operation Broken Fang Case,Mil-Spec,0,1,1
+Exoskeleton,AWP,Operation Broken Fang Case,Restricted,0,1,1
+Dezastre,Dual Berettas,Operation Broken Fang Case,Restricted,0,1,1
+Clear Polymer,Nova,Operation Broken Fang Case,Restricted,0,1,1
+Parallax,SSG 08,Operation Broken Fang Case,Restricted,0,1,1
+Gold Bismuth,UMP-45,Operation Broken Fang Case,Restricted,0,0.7,1
+Fairy Tale,Five-SeveN,Operation Broken Fang Case,Classified,0.02,0.9,1
+Cyber Security,M4A4,Operation Broken Fang Case,Classified,0,0.98,1
+Monster Mashup,USP-S,Operation Broken Fang Case,Classified,0,0.7,1
+Printstream,M4A1-S,Operation Broken Fang Case,Covert,0,0.8,1
+Neo-Noir,Glock-18,Operation Broken Fang Case,Covert,0,1,1
+Charter,XM1014,The Control Collection,Consumer,0,0.65,0
+Surveillance,AUG,The Control Collection,Consumer,0,0.6,0
+Army Sheen,MP9,The Control Collection,Consumer,0,0.3,0
+Forest Night,P250,The Control Collection,Consumer,0.06,0.8,0
+Jungle Dashed,CZ75-Auto,The Control Collection,Consumer,0.06,0.8,0
+The Bronze,Desert Eagle,The Control Collection,Industrial,0,0.3,0
+Switch Board,Dual Berettas,The Control Collection,Industrial,0,0.65,0
+Nitro,MP5-SD,The Control Collection,Industrial,0.06,0.8,0
+Carbon Fiber,MAG-7,The Control Collection,Industrial,0,0.12,0
+Global Offensive,M4A4,The Control Collection,Mil-Spec,0,0.7,0
+Threat Detected,SSG 08,The Control Collection,Mil-Spec,0,0.65,0
+Dispatch,P2000,The Control Collection,Mil-Spec,0,0.65,0
+Magna Carta,SCAR-20,The Control Collection,Mil-Spec,0,0.6,0
+Prime Conspiracy,FAMAS,The Control Collection,Restricted,0,0.55,0
+Berries And Cherries,Five-SeveN,The Control Collection,Restricted,0,0.1,0
+Crime Scene,UMP-45,The Control Collection,Restricted,0,0.75,0
+Target Acquired,USP-S,The Control Collection,Classified,0,0.5,0
+Blue Phosphor,M4A1-S,The Control Collection,Classified,0,0.08,0
+Fade,AWP,The Control Collection,Covert,0,0.08,0
+Heist,Dual Berettas,The Havoc Collection,Consumer,0,0.7,0
+Phoenix Chalk,Tec-9,The Havoc Collection,Consumer,0,0.8,0
+Clay Ambush,Sawed-Off,The Havoc Collection,Consumer,0,0.6,0
+Death Rattle,PP-Bizon,The Havoc Collection,Consumer,0.08,0.5,0
+Predator,M249,The Havoc Collection,Consumer,0.06,0.8,0
+Vault Heist,MP7,The Havoc Collection,Industrial,0,0.6,0
+Houndstooth,UMP-45,The Havoc Collection,Industrial,0,0.6,0
+Phoenix Marker,R8 Revolver,The Havoc Collection,Industrial,0,0.6,0
+Rust Coat,Nova,The Havoc Collection,Industrial,0,0.8,0
+Night Heist,Desert Eagle,The Havoc Collection,Mil-Spec,0,0.65,0
+Phoenix Stencil,Negev,The Havoc Collection,Mil-Spec,0,0.65,0
+Tiger Pit,P90,The Havoc Collection,Mil-Spec,0,0.5,0
+Bengal Tiger,P250,The Havoc Collection,Mil-Spec,0.06,0.8,0
+Phoenix Blacklight,Galil AR,The Havoc Collection,Restricted,0,0.7,0
+Hypnotic,SG 553,The Havoc Collection,Restricted,0,0.08,0
+Franklin,Glock-18,The Havoc Collection,Restricted,0,0.4,0
+Silk Tiger,AWP,The Havoc Collection,Classified,0,0.6,0
+Hot Snakes,MAC-10,The Havoc Collection,Classified,0,1,0
+X-Ray,AK-47,The Havoc Collection,Covert,0,1,0
+Ancient Earth,P90,The Ancient Collection,Consumer,0,0.5,0
+Lush Ruins,SG 553,The Ancient Collection,Consumer,0,0.7,0
+Army Sheen,Nova,The Ancient Collection,Consumer,0,0.3,0
+Jungle Dashed,SSG 08,The Ancient Collection,Consumer,0.06,0.8,0
+Night,R8 Revolver,The Ancient Collection,Consumer,0.06,0.8,0
+Panther Camo,P2000,The Ancient Collection,Industrial,0,0.5,0
+Tall Grass,MP7,The Ancient Collection,Industrial,0,0.65,0
+Ancient Ritual,G3SG1,The Ancient Collection,Industrial,0,0.76,0
+Silver,CZ75-Auto,The Ancient Collection,Industrial,0,0.08,0
+Blast From the Past,Tec-9,The Ancient Collection,Mil-Spec,0,0.65,0
+Carved Jade,AUG,The Ancient Collection,Mil-Spec,0,0.2,0
+Dusk Ruins,Galil AR,The Ancient Collection,Mil-Spec,0,0.6,0
+Dark Water,FAMAS,The Ancient Collection,Mil-Spec,0.1,0.26,0
+Ancient Lore,XM1014,The Ancient Collection,Restricted,0,0.5,0
+Gold Brick,MAC-10,The Ancient Collection,Restricted,0,0.7,0
+Ancient Visions,USP-S,The Ancient Collection,Restricted,0,0.45,0
+Run and Hide,P90,The Ancient Collection,Classified,0,1,0
+Panthera onca,AK-47,The Ancient Collection,Classified,0,1,0
+Welcome to the Jungle,M4A1-S,The Ancient Collection,Covert,0,1,0
+Clear Polymer,Glock-18,Snakebite Case,Mil-Spec,0,1,1
+O.S.I.P.R.,M249,Snakebite Case,Mil-Spec,0,0.7,1
+Heavy Metal,SG 553,Snakebite Case,Mil-Spec,0,1,1
+Junk Yard,R8 Revolver,Snakebite Case,Mil-Spec,0,1,1
+Oscillator,UMP-45,Snakebite Case,Mil-Spec,0,0.5,1
+Windblown,Nova,Snakebite Case,Mil-Spec,0,0.5,1
+Circaetus,CZ75-Auto,Snakebite Case,Mil-Spec,0,0.9,1
+Slate,AK-47,Snakebite Case,Restricted,0,1,1
+Cyber Shell,P250,Snakebite Case,Restricted,0,0.85,1
+dev_texture,Negev,Snakebite Case,Restricted,0,0.65,1
+Button Masher,MAC-10,Snakebite Case,Restricted,0,1,1
+Trigger Discipline,Desert Eagle,Snakebite Case,Restricted,0,0.97,1
+Food Chain,MP9,Snakebite Case,Classified,0,1,1
+XOXO,XM1014,Snakebite Case,Classified,0,0.9,1
+Chromatic Aberration,Galil AR,Snakebite Case,Classified,0,1,1
+The Traitor,USP-S,Snakebite Case,Covert,0,1,1
+In Living Color,M4A4,Snakebite Case,Covert,0,0.79,1
+Desert Brush,R8 Revolver,The 2021 Dust 2 Collection,Consumer,0,0.6,0
+Desert DDPAT,P90,The 2021 Dust 2 Collection,Consumer,0,0.5,0
+Bleached,SG 553,The 2021 Dust 2 Collection,Consumer,0,0.5,0
+Prey,MP7,The 2021 Dust 2 Collection,Consumer,0,0.48,0
+Parched,Sawed-Off,The 2021 Dust 2 Collection,Consumer,0,0.49,0
+Spalted Wood,AUG,The 2021 Dust 2 Collection,Industrial,0,0.48,0
+Old Roots,MP9,The 2021 Dust 2 Collection,Industrial,0,0.5,0
+Withered Vine,Five-SeveN,The 2021 Dust 2 Collection,Industrial,0,0.5,0
+Midnight Palm,M249,The 2021 Dust 2 Collection,Industrial,0,0.5,0
+Black & Tan,P250,The 2021 Dust 2 Collection,Mil-Spec,0,0.5,0
+Quick Sand,Nova,The 2021 Dust 2 Collection,Mil-Spec,0,0.5,0
+New Roots,G3SG1,The 2021 Dust 2 Collection,Mil-Spec,0,0.55,0
+Amber Fade,Galil AR,The 2021 Dust 2 Collection,Mil-Spec,0,0.4,0
+Orange Anolis,USP-S,The 2021 Dust 2 Collection,Restricted,0,0.37,0
+Red DDPAT,M4A4,The 2021 Dust 2 Collection,Restricted,0,0.5,0
+Case Hardened,MAC-10,The 2021 Dust 2 Collection,Restricted,0,1,0
+Fade,UMP-45,The 2021 Dust 2 Collection,Classified,0,0.08,0
+Death Strike,SSG 08,The 2021 Dust 2 Collection,Classified,0,0.8,0
+Gold Arabesque,AK-47,The 2021 Dust 2 Collection,Covert,0,0.7,0
+Drought,P250,The 2021 Mirage Collection,Consumer,0,0.44,0
+Anolis,PP-Bizon,The 2021 Mirage Collection,Consumer,0,0.5,0
+Navy Sheen,MAG-7,The 2021 Mirage Collection,Consumer,0,0.55,0
+Sienna Damask,MAC-10,The 2021 Mirage Collection,Consumer,0,0.6,0
+Prey,SSG 08,The 2021 Mirage Collection,Consumer,0,0.48,0
+Drift Wood,Dual Berettas,The 2021 Mirage Collection,Industrial,0,0.6,0
+CaliCamo,FAMAS,The 2021 Mirage Collection,Industrial,0,0.6,0
+Midnight Palm,CZ75-Auto,The 2021 Mirage Collection,Industrial,0,0.5,0
+Verdant Growth,P90,The 2021 Mirage Collection,Industrial,0,0.47,0
+Purple DDPAT,USP-S,The 2021 Mirage Collection,Mil-Spec,0,0.55,0
+Music Box,MP9,The 2021 Mirage Collection,Mil-Spec,0,0.55,0
+Humidor,M249,The 2021 Mirage Collection,Mil-Spec,0,0.5,0
+Desert Blossom,SG 553,The 2021 Mirage Collection,Mil-Spec,0,0.49,0
+Elegant Vines,XM1014,The 2021 Mirage Collection,Restricted,0,0.37,0
+Pink DDPAT,Glock-18,The 2021 Mirage Collection,Restricted,0.06,0.8,0
+Sand Storm,AUG,The 2021 Mirage Collection,Restricted,0,0.5,0
+Oxide Oasis,MP5-SD,The 2021 Mirage Collection,Classified,0,0.55,0
+Fennec Fox,Desert Eagle,The 2021 Mirage Collection,Classified,0,0.8,0
+Desert Hydra,AWP,The 2021 Mirage Collection,Covert,0,0.6,0
+Sputnik,Desert Eagle,The 2021 Train Collection,Mil-Spec,0,0.5,0
+Fizzy POP,M4A1-S,The 2021 Train Collection,Mil-Spec,0,0.57,0
+Spring Twilly,SSG 08,The 2021 Train Collection,Mil-Spec,0,0.55,0
+Amber Fade,AUG,The 2021 Train Collection,Mil-Spec,0,0.4,0
+Full Stop,UMP-45,The 2021 Train Collection,Mil-Spec,0,0.6,0
+Safety Net,Tec-9,The 2021 Train Collection,Mil-Spec,0,0.6,0
+Blaze,R8 Revolver,The 2021 Train Collection,Mil-Spec,0,0.08,0
+Syndicate,CZ75-Auto,The 2021 Train Collection,Restricted,0,0.7,0
+POP AWP,AWP,The 2021 Train Collection,Restricted,0,0.44,0
+Space Race,P2000,The 2021 Train Collection,Restricted,0,0.6,0
+Autumn Twilly,MP5-SD,The 2021 Train Collection,Restricted,0,0.58,0
+Red Quartz,Nova,The 2021 Train Collection,Restricted,0,0.4,0
+Meltdown,FAMAS,The 2021 Train Collection,Classified,0,0.4,0
+Propaganda,MAC-10,The 2021 Train Collection,Classified,0,0.62,0
+Whiteout,USP-S,The 2021 Train Collection,Classified,0.06,0.8,0
+Gamma Doppler,Glock-18,The 2021 Train Collection,Covert,0,0.5,0
+The Coalition,M4A4,The 2021 Train Collection,Covert,0,1,0
+Strats,MAC-10,The 2021 Vertigo Collection,Consumer,0,0.6,0
+Faulty Wiring,FAMAS,The 2021 Vertigo Collection,Consumer,0,0.5,0
+Blue Tire,XM1014,The 2021 Vertigo Collection,Consumer,0,0.55,0
+Framework,CZ75-Auto,The 2021 Vertigo Collection,Consumer,0,0.8,0
+Oil Change,Dual Berettas,The 2021 Vertigo Collection,Consumer,0,0.5,0
+Red Tire,Glock-18,The 2021 Vertigo Collection,Industrial,0,0.55,0
+Mechanism,UMP-45,The 2021 Vertigo Collection,Industrial,0,0.49,0
+Carbon Fiber,SSG 08,The 2021 Vertigo Collection,Industrial,0,0.12,0
+Breaker Box,PP-Bizon,The 2021 Vertigo Collection,Industrial,0,0.44,0
+Green Laminate,AK-47,The 2021 Vertigo Collection,Mil-Spec,0.02,0.4,0
+Schematic,P90,The 2021 Vertigo Collection,Mil-Spec,0,0.5,0
+Interlock,Nova,The 2021 Vertigo Collection,Mil-Spec,0,0.5,0
+Infrastructure,Negev,The 2021 Vertigo Collection,Mil-Spec,0,0.49,0
+CAUTION!,Galil AR,The 2021 Vertigo Collection,Restricted,0,0.55,0
+Prism Terrace,MAG-7,The 2021 Vertigo Collection,Restricted,0,0.37,0
+Digital Architect,P250,The 2021 Vertigo Collection,Restricted,0,0.49,0
+Fall Hazard,Five-SeveN,The 2021 Vertigo Collection,Classified,0.01,0.52,0
+Hazard Pay,SG 553,The 2021 Vertigo Collection,Classified,0,0.48,0
+Imminent Danger,M4A1-S,The 2021 Vertigo Collection,Covert,0,0.8,0
+Plague,AUG,Operation Riptide Case,Mil-Spec,0,0.76,1
+Tread,Dual Berettas,Operation Riptide Case,Mil-Spec,0,1,1
+Keeping Tabs,G3SG1,Operation Riptide Case,Mil-Spec,0,0.7,1
+Guerrilla,MP7,Operation Riptide Case,Mil-Spec,0,1,1
+Lumen,PP-Bizon,Operation Riptide Case,Mil-Spec,0,0.77,1
+Black Lotus,USP-S,Operation Riptide Case,Mil-Spec,0,0.9,1
+Watchdog,XM1014,Operation Riptide Case,Mil-Spec,0,1,1
+BI83 Spectrum,MAG-7,Operation Riptide Case,Restricted,0,0.6,1
+ZX Spectron,FAMAS,Operation Riptide Case,Restricted,0,1,1
+Boost Protocol,Five-SeveN,Operation Riptide Case,Restricted,0,0.41,1
+Mount Fuji,MP9,Operation Riptide Case,Restricted,0,0.55,1
+Spider Lily,M4A4,Operation Riptide Case,Restricted,0,1,1
+Toybox,MAC-10,Operation Riptide Case,Classified,0,1,1
+Snack Attack,Glock-18,Operation Riptide Case,Classified,0,1,1
+Turbo Peek,SSG 08,Operation Riptide Case,Classified,0,0.6,1
+Ocean Drive,Desert Eagle,Operation Riptide Case,Covert,0,1,1
+Leet Museo,AK-47,Operation Riptide Case,Covert,0,0.65,1
+Gamma Doppler,Bowie Knife,Dreams & Nightmares Case,Covert,0,0.08,1
+Freehand,Bowie Knife,Dreams & Nightmares Case,Covert,0,0.48,1
+Lore,Bowie Knife,Dreams & Nightmares Case,Covert,0,1,1
+Autotronic,Bowie Knife,Dreams & Nightmares Case,Covert,0,0.85,1
+Black Laminate,Bowie Knife,Dreams & Nightmares Case,Covert,0,1,1
+Bright Water,Bowie Knife,Dreams & Nightmares Case,Covert,0,0.5,1
+Gamma Doppler,Butterfly Knife,Dreams & Nightmares Case,Covert,0,0.08,1
+Freehand,Butterfly Knife,Dreams & Nightmares Case,Covert,0,0.48,1
+Lore,Butterfly Knife,Dreams & Nightmares Case,Covert,0,1,1
+Autotronic,Butterfly Knife,Dreams & Nightmares Case,Covert,0,0.85,1
+Black Laminate,Butterfly Knife,Dreams & Nightmares Case,Covert,0,1,1
+Bright Water,Butterfly Knife,Dreams & Nightmares Case,Covert,0,0.5,1
+Gamma Doppler,Falchion Knife,Dreams & Nightmares Case,Covert,0,0.08,1
+Freehand,Falchion Knife,Dreams & Nightmares Case,Covert,0,0.48,1
+Lore,Falchion Knife,Dreams & Nightmares Case,Covert,0,0.65,1
+Autotronic,Falchion Knife,Dreams & Nightmares Case,Covert,0,0.85,1
+Black Laminate,Falchion Knife,Dreams & Nightmares Case,Covert,0,1,1
+Bright Water,Falchion Knife,Dreams & Nightmares Case,Covert,0,0.5,1
+Gamma Doppler,Huntsman Knife,Dreams & Nightmares Case,Covert,0,0.08,1
+Freehand,Huntsman Knife,Dreams & Nightmares Case,Covert,0,0.48,1
+Lore,Huntsman Knife,Dreams & Nightmares Case,Covert,0,0.65,1
+Autotronic,Huntsman Knife,Dreams & Nightmares Case,Covert,0,0.85,1
+Black Laminate,Huntsman Knife,Dreams & Nightmares Case,Covert,0,1,1
+Bright Water,Huntsman Knife,Dreams & Nightmares Case,Covert,0,0.5,1
+Gamma Doppler,Shadow Daggers,Dreams & Nightmares Case,Covert,0,0.08,1
+Freehand,Shadow Daggers,Dreams & Nightmares Case,Covert,0,0.48,1
+Lore,Shadow Daggers,Dreams & Nightmares Case,Covert,0,1,1
+Autotronic,Shadow Daggers,Dreams & Nightmares Case,Covert,0,0.85,1
+Black Laminate,Shadow Daggers,Dreams & Nightmares Case,Covert,0,1,1
+Bright Water,Shadow Daggers,Dreams & Nightmares Case,Covert,0,0.5,1
+Scrawl,Five-SeveN,Dreams & Nightmares Case,Mil-Spec,0,1,1
+Ensnared,MAC-10,Dreams & Nightmares Case,Mil-Spec,0,0.9,1
+Foresight,MAG-7,Dreams & Nightmares Case,Mil-Spec,0,0.7,1
+Necro Jr.,MP5-SD,Dreams & Nightmares Case,Mil-Spec,0,1,1
+Lifted Spirits,P2000,Dreams & Nightmares Case,Mil-Spec,0,1,1
+Poultrygeist,SCAR-20,Dreams & Nightmares Case,Mil-Spec,0,0.57,1
+Spirit Board,Sawed-Off,Dreams & Nightmares Case,Mil-Spec,0,1,1
+Space Cat,PP-Bizon,Dreams & Nightmares Case,Restricted,0,0.67,1
+Dream Glade,G3SG1,Dreams & Nightmares Case,Restricted,0,1,1
+Night Terror,M4A1-S,Dreams & Nightmares Case,Restricted,0,0.7,1
+Zombie Offensive,XM1014,Dreams & Nightmares Case,Restricted,0,0.5,1
+Ticket to Hell,USP-S,Dreams & Nightmares Case,Restricted,0,0.76,1
+Melondrama,Dual Berettas,Dreams & Nightmares Case,Classified,0,1,1
+Rapid Eye Movement,FAMAS,Dreams & Nightmares Case,Classified,0,1,1
+Abyssal Apparition,MP7,Dreams & Nightmares Case,Classified,0,1,1
+Nightwish,AK-47,Dreams & Nightmares Case,Covert,0,1,1
+Starlight Protector,MP9,Dreams & Nightmares Case,Covert,0,0.8,1
+Meow 36,FAMAS,Recoil Case,Mil-Spec,0,1,1
+Destroyer,Galil AR,Recoil Case,Mil-Spec,0,0.7,1
+Poly Mag,M4A4,Recoil Case,Mil-Spec,0,1,1
+Monkeyflage,MAC-10,Recoil Case,Mil-Spec,0,1,1
+Drop Me,Negev,Recoil Case,Mil-Spec,0,1,1
+Roadblock,UMP-45,Recoil Case,Mil-Spec,0,1,1
+Winterized,Glock-18,Recoil Case,Mil-Spec,0,1,1
+Crazy 8,R8 Revolver,Recoil Case,Restricted,0,1,1
+Downtown,M249,Recoil Case,Restricted,0,0.65,1
+Dragon Tech,SG 553,Recoil Case,Restricted,0,0.7,1
+Vent Rush,P90,Recoil Case,Restricted,0,0.7,1
+Flora Carnivora,Dual Berettas,Recoil Case,Restricted,0,1,1
+Ice Coaled,AK-47,Recoil Case,Classified,0,0.77,1
+Visions,P250,Recoil Case,Classified,0,0.7,1
+Kiss♥Love,Sawed-Off,Recoil Case,Classified,0,1,1
+Printstream,USP-S,Recoil Case,Covert,0,0.85,1
+Chromatic Aberration,AWP,Recoil Case,Covert,0,0.7,1
+Insomnia,MAG-7,Revolution Case,Mil-Spec,0,1,1
+Featherweight,MP9,Revolution Case,Mil-Spec,0,1,1
+Fragments,SCAR-20,Revolution Case,Mil-Spec,0,0.78,1
+Re.built,P250,Revolution Case,Mil-Spec,0,0.9,1
+Liquidation,MP5-SD,Revolution Case,Mil-Spec,0,1,1
+Cyberforce,SG 553,Revolution Case,Mil-Spec,0,0.9,1
+Rebel,Tec-9,Revolution Case,Mil-Spec,0,1,1
+Emphorosaur-S,M4A1-S,Revolution Case,Restricted,0,0.8,1
+Umbral Rabbit,Glock-18,Revolution Case,Restricted,0,0.75,1
+Sakkaku,MAC-10,Revolution Case,Restricted,0.21,0.79,1
+Banana Cannon,R8 Revolver,Revolution Case,Restricted,0,1,1
+Neoqueen,P90,Revolution Case,Restricted,0,0.6,1
+Wild Child,UMP-45,Revolution Case,Classified,0,1,1
+Wicked Sick,P2000,Revolution Case,Classified,0,1,1
+Head Shot,AK-47,Revolution Case,Covert,0,1,1
+Temukau,M4A4,Revolution Case,Covert,0,0.8,1
+Duality,AWP,Revolution Case,Classified,0,0.7,1
+Inlay,R8 Revolver,Anubis Collection Package,Consumer,0,0.76,0
+Submerged,M249,Anubis Collection Package,Consumer,0.02,0.8,0
+Hieroglyph,XM1014,Anubis Collection Package,Consumer,0,1,0
+Sunbaked,MP7,Anubis Collection Package,Consumer,0,1,0
+Snake Pit,AUG,Anubis Collection Package,Consumer,0,0.55,0
+Mud-Spec,M4A1-S,Anubis Collection Package,Industrial,0,0.73,0
+Azure Glyph,SSG 08,Anubis Collection Package,Industrial,0.01,0.99,0
+Echoing Sands,MAC-10,Anubis Collection Package,Industrial,0.02,0.8,0
+Desert Tactical,USP-S,Anubis Collection Package,Industrial,0,1,0
+Steel Delta,AK-47,Anubis Collection Package,Mil-Spec,0,0.73,0
+Black Nile,AWP,Anubis Collection Package,Mil-Spec,0,0.75,0
+Mummy's Rot,Tec-9,Anubis Collection Package,Mil-Spec,0,1,0
+Copper Coated,MAG-7,Anubis Collection Package,Mil-Spec,0,1,0
+Ramese's Reach,Glock-18,Anubis Collection Package,Restricted,0,1,0
+Sobek's Bite,Nova,Anubis Collection Package,Restricted,0,1,0
+ScaraB Rush,P90,Anubis Collection Package,Restricted,0,1,0
+Waters of Nephthys,FAMAS,Anubis Collection Package,Classified,0,0.7,0
+Apep's Curse,P250,Anubis Collection Package,Classified,0,1,0
+Eye of Horus,M4A4,Anubis Collection Package,Covert,0,0.7,0
+Slag,Tec-9,Kilowatt Case,Mil-Spec,0,0.9,1
+Irezumi,XM1014,Kilowatt Case,Mil-Spec,0,0.8,1
+Motorized,UMP-45,Kilowatt Case,Mil-Spec,0,0.8,1
+Dezastre,SSG 08,Kilowatt Case,Mil-Spec,0,1,1
+Hideout,Dual Berettas,Kilowatt Case,Mil-Spec,0,0.7,1
+Dark Sigil,Nova,Kilowatt Case,Mil-Spec,0,0.7,1
+Light Box,MAC-10,Kilowatt Case,Mil-Spec,0,1,1
+Block-18,Glock-18,Kilowatt Case,Restricted,0,0.67,1
+Etch Lord,M4A4,Kilowatt Case,Restricted,0,1,1
+Just Smile,MP7,Kilowatt Case,Restricted,0,1,1
+Analog Input,Sawed-Off,Kilowatt Case,Restricted,0,0.62,1
+Hybrid,Five-SeveN,Kilowatt Case,Restricted,0,1,1
+Black Lotus,M4A1-S,Kilowatt Case,Classified,0,0.7,1
+Olympus,Zeus x27,Kilowatt Case,Classified,0,0.67,1
+Jawbreaker,USP-S,Kilowatt Case,Classified,0,1,1
+Chrome Cannon,AWP,Kilowatt Case,Covert,0,1,1
+Inheritance,AK-47,Kilowatt Case,Covert,0,0.8,1
+Forest DDPAT,Kukri Knife,Kilowatt Case,Covert,0.06,0.8,1
+Crimson Web,Kukri Knife,Kilowatt Case,Covert,0.06,0.8,1
+Fade,Kukri Knife,Kilowatt Case,Covert,0,0.08,1
+Blue Steel,Kukri Knife,Kilowatt Case,Covert,0,1,1
+Stained,Kukri Knife,Kilowatt Case,Covert,0,1,1
+Case Hardened,Kukri Knife,Kilowatt Case,Covert,0,1,1
+Slaughter,Kukri Knife,Kilowatt Case,Covert,0.01,0.26,1
+Safari Mesh,Kukri Knife,Kilowatt Case,Covert,0.06,0.8,1
+Boreal Forest,Kukri Knife,Kilowatt Case,Covert,0.06,0.8,1
+Urban Masked,Kukri Knife,Kilowatt Case,Covert,0.06,0.8,1
+Scorched,Kukri Knife,Kilowatt Case,Covert,0.06,0.8,1
+Night Stripe,Kukri Knife,Kilowatt Case,Covert,0.06,0.8,1
+Vanilla,Kukri Knife,Kilowatt Case,Covert,0,0,1

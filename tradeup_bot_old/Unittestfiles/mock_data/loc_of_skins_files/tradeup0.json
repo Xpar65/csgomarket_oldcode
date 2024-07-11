@@ -1,0 +1,20 @@
+[
+    {
+        "tradeid": 0,
+        "tier": "Mil-Spec",
+        "average_float": 0.14,
+        "ST,SV": "Normal",
+        "cases": [
+            {
+                "collection_name": "The Shadow Collection",
+                "wear": "Minimal Wear",
+                "skin_num": 6
+            },
+            {
+                "collection_name": "The Chroma Collection",
+                "wear": "Factory New",
+                "skin_num": 4
+            }
+        ]
+    }
+]

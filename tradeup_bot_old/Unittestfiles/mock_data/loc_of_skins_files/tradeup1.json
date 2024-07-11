@@ -1,0 +1,60 @@
+[
+    {
+        "tradeid": 0,
+        "tier": "Mil-Spec",
+        "average_float": 0.3,
+        "ST,SV": "StatTrak",
+        "cases": [
+            {
+                "collection_name": "The Shadow Collection",
+                "wear": "Minimal Wear",
+                "skin_num": 1
+            },
+            {
+                "collection_name": "The Chroma 2 Collection",
+                "wear": "Field-Tested",
+                "skin_num": 1
+            },
+            {
+                "collection_name": "The Breakout Collection",
+                "wear": "Well-Worn",
+                "skin_num": 1
+            },
+            {
+                "collection_name": "The Chroma 2 Collection",
+                "wear": "Factory New",
+                "skin_num": 1
+            },
+            {
+                "collection_name": "The Gamma Collection",
+                "wear": "Field-Tested",
+                "skin_num": 1
+            },
+            {
+                "collection_name": "The Phoenix Collection",
+                "wear": "Well-Worn",
+                "skin_num": 1
+            },
+            {
+                "collection_name": "The Glove Collection",
+                "wear": "Well-Worn",
+                "skin_num": 1
+            },
+            {
+                "collection_name": "The Phoenix Collection",
+                "wear": "Field-Tested",
+                "skin_num": 1
+            },
+            {
+                "collection_name": "The Gamma 2 Collection",
+                "wear": "Battle-Scarred",
+                "skin_num": 1
+            },
+            {
+                "collection_name": "The Gamma 2 Collection",
+                "wear": "Field-Tested",
+                "skin_num": 1
+            }
+        ]
+    }
+]

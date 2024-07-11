@@ -1,0 +1,142 @@
+[
+    {
+        "tradeid": 0,
+        "tier": "Mil-Spec",
+        "average_float": 0.3,
+        "ST,SV": "StatTrak",
+        "cases": [
+            {
+                "collection_name": "The Shadow Collection",
+                "wear": "Minimal Wear",
+                "skin_num": 1,
+                "skin_loc": [
+                    {
+                        "loc": 41,
+                        "float": 0.14152178168296814
+                    }
+                ],
+                "inventory_count": 1
+            },
+            {
+                "collection_name": "The Chroma 2 Collection",
+                "wear": "Field-Tested",
+                "skin_num": 1,
+                "skin_loc": [
+                    {
+                        "loc": 28,
+                        "float": 0.18751129508018494
+                    },
+                    {
+                        "loc": 40,
+                        "float": 0.23431506752967834
+                    }
+                ],
+                "inventory_count": 2
+            },
+            {
+                "collection_name": "The Breakout Collection",
+                "wear": "Well-Worn",
+                "skin_num": 1,
+                "skin_loc": [
+                    {
+                        "loc": 39,
+                        "float": 0.3980295658111572
+                    }
+                ],
+                "inventory_count": 1
+            },
+            {
+                "collection_name": "The Chroma 2 Collection",
+                "wear": "Factory New",
+                "skin_num": 1,
+                "skin_loc": [
+                    {
+                        "loc": 38,
+                        "float": 0.06373395025730133
+                    }
+                ],
+                "inventory_count": 1
+            },
+            {
+                "collection_name": "The Gamma Collection",
+                "wear": "Field-Tested",
+                "skin_num": 1,
+                "skin_loc": [
+                    {
+                        "loc": 37,
+                        "float": 0.2061423510313034
+                    }
+                ],
+                "inventory_count": 1
+            },
+            {
+                "collection_name": "The Phoenix Collection",
+                "wear": "Well-Worn",
+                "skin_num": 1,
+                "skin_loc": [
+                    {
+                        "loc": 36,
+                        "float": 0.38057276606559753
+                    }
+                ],
+                "inventory_count": 1
+            },
+            {
+                "collection_name": "The Glove Collection",
+                "wear": "Well-Worn",
+                "skin_num": 1,
+                "skin_loc": [
+                    {
+                        "loc": 27,
+                        "float": 0.4494374990463257
+                    },
+                    {
+                        "loc": 35,
+                        "float": 0.4325382113456726
+                    }
+                ],
+                "inventory_count": 2
+            },
+            {
+                "collection_name": "The Phoenix Collection",
+                "wear": "Field-Tested",
+                "skin_num": 1,
+                "skin_loc": [
+                    {
+                        "loc": 34,
+                        "float": 0.26366665959358215
+                    }
+                ],
+                "inventory_count": 1
+            },
+            {
+                "collection_name": "The Gamma 2 Collection",
+                "wear": "Battle-Scarred",
+                "skin_num": 1,
+                "skin_loc": [
+                    {
+                        "loc": 33,
+                        "float": 0.5292806625366211
+                    }
+                ],
+                "inventory_count": 1
+            },
+            {
+                "collection_name": "The Gamma 2 Collection",
+                "wear": "Field-Tested",
+                "skin_num": 1,
+                "skin_loc": [
+                    {
+                    "loc": 25,
+                    "float": 0.34640833735466003
+                    },
+                    {
+                        "loc": 29,
+                        "float": 0.3183349072933197
+                    }
+                ],
+                "inventory_count": 2
+            }
+        ]
+    }
+]

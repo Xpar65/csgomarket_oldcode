@@ -1,0 +1,46 @@
+SELECT * FROM Skins 
+    JOIN Rarity on Skins.RarityID = Rarity.RarityID
+    JOIN Weapons on Skins.WeaponID = Weapons.WeaponID
+    JOIN Skin_Collection on Skin_Collection.SkinID = Skins.SkinID
+    JOIN Collection on Collection.CollectionID = Skin_Collection.CollectionID;
+    
+SELECT * FROM Skins 
+    Natural JOIN Rarity
+    Natural JOIN Weapons
+    Natural JOIN Skin_Collection
+    Natural JOIN Collection;
+    
+INSERT INTO Skin_Collection (SkinID, CollectionID)
+SELECT s.SkinID, c.CollectionID
+FROM Skins s
+JOIN Collection c ON c.Collection_Name = 'Kilowatt Collection'
+WHERE NOT EXISTS (
+    SELECT 1
+    FROM Skin_Collection sc
+    WHERE sc.SkinID = s.SkinID
+);
+
+INSERT INTO Collection (Collection_Name) VALUES ('Kilowatt Collection');
+
+INSERT INTO Skins (Skin_Name, WeaponID, RarityID) VALUES ('Light Box', (SELECT WeaponID FROM Weapons WHERE Weapon_Name = 'MAC-10'), (SELECT RarityID FROM Rarity WHERE Rarity_Name = 'Mil-Spec'));
+
+-- Insert Mil-Spec skin for SSG 08
+INSERT INTO Skins (Skin_Name, WeaponID, RarityID) VALUES ('Dezastre', (SELECT WeaponID FROM Weapons WHERE Weapon_Name = 'SSG 08'), (SELECT RarityID FROM Rarity WHERE Rarity_Name = 'Mil-Spec'));
+
+-- Insert Mil-Spec skin for XM1014
+INSERT INTO Skins (Skin_Name, WeaponID, RarityID) VALUES ('Irezumi', (SELECT WeaponID FROM Weapons WHERE Weapon_Name = 'XM1014'), (SELECT RarityID FROM Rarity WHERE Rarity_Name = 'Mil-Spec'));
+
+-- Insert Mil-Spec skin for UMP-45
+INSERT INTO Skins (Skin_Name, WeaponID, RarityID) VALUES ('Motorized', (SELECT WeaponID FROM Weapons WHERE Weapon_Name = 'UMP-45'), (SELECT RarityID FROM Rarity WHERE Rarity_Name = 'Mil-Spec'));
+
+-- Insert Mil-Spec skin for Tec-9
+INSERT INTO Skins (Skin_Name, WeaponID, RarityID) VALUES ('Slag', (SELECT WeaponID FROM Weapons WHERE Weapon_Name = 'Tec-9'), (SELECT RarityID FROM Rarity WHERE Rarity_Name = 'Mil-Spec'));
+
+-- Insert Mil-Spec skin for Nova
+INSERT INTO Skins (Skin_Name, WeaponID, RarityID) VALUES ('Dark Sigil', (SELECT WeaponID FROM Weapons WHERE Weapon_Name = 'Nova'), (SELECT RarityID FROM Rarity WHERE Rarity_Name = 'Mil-Spec'));
+
+-- Insert Mil-Spec skin for Dual Berettas
+INSERT INTO Skins (Skin_Name, WeaponID, RarityID) VALUES ('Hideout', (SELECT WeaponID FROM Weapons WHERE Weapon_Name = 'Dual Berettas'), (SELECT RarityID FROM Rarity WHERE Rarity_Name = 'Mil-Spec'));
+
+
+INSERT INTO Skins (Skin_Name, WeaponID, RarityID) VALUES ('', (SELECT WeaponID FROM Weapons WHERE Weapon_Name = ''), (SELECT RarityID FROM Rarity WHERE Rarity_Name = ''));

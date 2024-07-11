@@ -1,0 +1,74 @@
+[
+    {
+        "tradeid": 0,
+        "tier": "Mil-Spec",
+        "average_float": 0.14,
+        "ST,SV": "Normal",
+        "cases": [
+            {
+                "collection_name": "The Shadow Collection",
+                "wear": "Minimal Wear",
+                "skin_num": 6,
+                "skin_loc": [
+                    {
+                        "loc": 2,
+                        "float": 0.11341650784015656
+                    },
+                    {
+                        "loc": 3,
+                        "float": 0.14190302789211273
+                    },
+                    {
+                        "loc": 4,
+                        "float": 0.12195196002721786
+                    },
+                    {
+                        "loc": 5,
+                        "float": 0.12470516562461853
+                    },
+                    {
+                        "loc": 6,
+                        "float": 0.13292105495929718
+                    },
+                    {
+                        "loc": 11,
+                        "float": 0.13507166504859924
+                    },
+                    {
+                        "loc": 12,
+                        "float": 0.1206798255443573
+                    }
+                ],
+                "inventory_count": 7
+            },
+            {
+                "collection_name": "The Chroma Collection",
+                "wear": "Factory New",
+                "skin_num": 4,
+                "skin_loc": [
+                    {
+                        "loc": 0,
+                        "float": 0.04096389189362526
+                    },
+                    {
+                        "loc": 7,
+                        "float": 0.053062744438648224
+                    },
+                    {
+                        "loc": 8,
+                        "float": 0.0569600835442543
+                    },
+                    {
+                        "loc": 9,
+                        "float": 0.05151280760765076
+                    },
+                    {
+                        "loc": 10,
+                        "float": 0.06613752245903015
+                    }
+                ],
+                "inventory_count": 5
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+
+
+    //Opening the database
+    int dataBaseFlag; //integer that holds an output flag number to the opening of the database.
+    char* errMsg = nullptr; //Used to store and later output error messages when using the database
+    sqlite3 * db; //pointer to database object, (sqlite3 object dynamically allocates memory). let it do that at whatever address is assigned
+    dataBaseFlag = sqlite3_open("DATA_leem.db", &db);//open database, assigns db to address of database object and ouputs error flags to dataBaseFlag
+    if(dataBaseFlag != SQLITE_OK){ //check if flag is OK (SQLITE_OK == 0)
+        std::cerr << "Error opening database: " << sqlite3_errmsg(db) << std::endl; //call specific error msg
+        sqlite3_close(db);
+        return 1;
+    }
+    std::cout << "Database opened successfully." << std::endl;
+    
+    char * sql = "Select * From Rarity;";
+    sqlite3_stmt* stmt;
+    dataBaseFlag = sqlite3_prepare_v2(db, sql, -1, &stmt, nullptr); //prepare sql to be executed. db = database, sql = sql to excecute, -1 = max num statements (-1 means 1 only), &stmt stores sql output as stmt obj, nullptr would be used to store a poiter to the multiple sql statements being excecuted
+    if (dataBaseFlag != SQLITE_OK) { //if prepared correctly
+        std::cerr << "Preparation failed: " << sqlite3_errmsg(db) << std::endl;
+    } else {
+        while ((dataBaseFlag = sqlite3_step(stmt)) == SQLITE_ROW) { //check if a row exists
+            int RarityID = sqlite3_column_int(stmt, 0); 
+            const unsigned char* Rarity = sqlite3_column_text(stmt, 1);
+            const unsigned char* Colour = sqlite3_column_text(stmt, 2);
+            std::cout <<"RarityID: "<<RarityID<<" Rarity: "<<Rarity<<" Colour: "<<Colour<<std::endl;
+        }
+        if (dataBaseFlag != SQLITE_DONE) {
+            std::cerr << "Selection failed: " << sqlite3_errmsg(db) << std::endl; 
+        }
+        sqlite3_finalize(stmt); //finish using the statement and clear memory allocated to it
+    }
+    
